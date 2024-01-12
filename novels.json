@@ -1,7 +1,14 @@
 [
   {
+    "id":"152588",
+    "title":"Haibara's Teenage New Game+",
+    "cover":"cover/haibara-s-teenage-new-game-volume-5.jpg",
+    "page":"page/haibara-s-teenage-new-game.json"
+  },
+  {
     "id":"126487",
     "title":"Villainess Level 99: I May Be the Hidden Boss but I'm Not the Demon Lord",
-    "cover":""
-  }
+    "cover":"https://www.justlightnovels.com/wp-content/uploads/2023/11/villainess-level-99-i-may-be-the-hidden-boss-but-i-m-not-the-demon-lord-act-3-light-novel.jpg",
+    "page":"page/villainess-level-99-i-may-be-the-hidden-boss-but-i-m-not-the-demon-lord-act-3-light-novel.json"
+  },
 ]
