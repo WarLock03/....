@@ -1,24 +1,352 @@
 {
   "data":[
     {
+      "id":"004",
+      "title":{
+        "jp":"Haibara-kun no Tsuyokute Seishun New Game",
+        "eng":"Haibara’s Teenage New Game+"
+      },
+      "images":{
+        "cover":"images/Haibaras-Teenage-New-Game/Haiharakuns-Strong-and-Youthful-New-Game-1.jpg",
+        "banner":"images/Haibaras-Teenage-New-Game/haibara-banner.jpg"
+      },
+      "status":"Releasing",
+      "type":"Light Novel",
+      "translationType":"Official",
+      "translationGroup":"J-Novel Club",
+      "genres": ["Romance","Slice of Life"],
+      "volumes":[
+        {
+          "title":"Volume 1",
+          "cover":"images/Haibaras-Teenage-New-Game/Haiharakuns-Strong-and-Youthful-New-Game-1.jpg",
+          "epub":"1HSO0bm6khxdUxAFM4tgezgiCQtsJkruY",
+          "pdf":""
+        },
+        {
+          "title":"Volume 2",
+          "cover":"images/Haibaras-Teenage-New-Game/Haiharakuns-Strong-and-Youthful-New-Game-2.jpg",
+          "epub":"1HHcBtk7zXg379bVSgRyFpxedoGVnx5Bi",
+          "pdf":""
+        },
+        {
+          "title":"Volume 3",
+          "cover":"images/Haibaras-Teenage-New-Game/Haiharakuns-Strong-and-Youthful-New-Game-3.jpg",
+          "epub":"1HBY-e53FTdLnlpSP6gjovARZ9M2gDlC2",
+          "pdf":""
+        },
+        {
+          "title":"Volume 4",
+          "cover":"images/Haibaras-Teenage-New-Game/Haiharakuns-Strong-and-Youthful-New-Game_4.jpg",
+          "epub":"1H9ev3I-naJ_w66jUaobZU9IQk7GK4d1h",
+          "pdf":""
+        },
+        {
+          "title":"Volume 5",
+          "cover":"images/Haibaras-Teenage-New-Game/Haiharakuns-Strong-and-Youthful-New-Game-5.jpg",
+          "epub":"17Z0kj8ZZmFtv0oi03mI6glHqitJxdEEI",
+          "pdf":""
+        }
+      ]
+    },
+    {
+      "id":"003",
+      "title":{
+        "jp":"Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken",
+        "eng":"The Angel Next Door Spoils Me Rotten"
+      },
+      "images":{
+        "cover":"images/the-angel-next-door/angel-LN_V1_EN_Cover.jpg",
+        "banner":"images/the-angel-next-door/angel-banner.jpg"
+      },
+      "status":"Releasing",
+      "type":"Light Novel",
+      "translationType":"Official",
+      "translationGroup":"Yen Press",
+      "genres": ["Comedy","Romance","Slice of Life"],
+      "synopsis":"Amane lives alone in an apartment, and the most beautiful girl in school, Mahiru, lives just next door. They've almost never spoken—until the day he sees her in distress on a rainy day and lends her his umbrella. To return the favor, she offers him help around the house, and a relationship slowly begins to blossom as the distance between them closes...",
+      "volumes":[
+        {
+          "title":"Volume 1",
+          "cover":"images/the-angel-next-door/angel-LN_V1_EN_Cover.jpg",
+          "epub":"1pDEiVDc99US21ZBn3zEXaQFVHkwuLdmA",
+          "pdf":""
+        },
+        {
+          "title":"Volume 2",
+          "cover":"images/the-angel-next-door/angel-LN_V2_EN_Cover.jpg",
+          "epub":"1YPcthlhCxW8s2f5qU_aJFUrBgoDqo3d9",
+          "pdf":""
+        },
+        {
+          "title":"Volume 3",
+          "cover":"images/the-angel-next-door/angel-Vol_3.png",
+          "epub":"10h0bdVdPNBooI812Ss6oJGdajFbf__5s",
+          "pdf":""
+        },
+        {
+          "title":"Volume 4",
+          "cover":"images/the-angel-next-door/angel_LN_V4_EN_Cover.jpg",
+          "epub":"1KeaG6IscmpimPE8aCSz-oypqJsvCHXlD",
+          "pdf":""
+        },
+        {
+          "title":"Volume 5",
+          "cover":"images/the-angel-next-door/angel_5.jpg",
+          "epub":"1Nv2g1k1ZtAhJflTsfUPXVyeXtUpK3nSl",
+          "pdf":""
+        },
+        {
+          "title":"Volume 5.5",
+          "cover":"images/the-angel-next-door/angel_5.5.jpg",
+          "epub":"1OWyQwuGtFxiVaYTCND0wKhsGC-LeC_1Z",
+          "pdf":""
+        },
+        {
+          "title":"Volume 6",
+          "cover":"images/the-angel-next-door/Angel_LN_V6_EN_Cover.jpg",
+          "epub":"1K4HTg4WscAa6zh4ceqff_1Wfjn23KGUL",
+          "pdf":""
+        }
+      ]
+    },
+    {
+      "id":"002",
+      "title":{
+        "jp":"Hikikomari Kyuuketsuki no Monmon",
+        "eng":"The Vexations of a Shut-In Vampire Princess"
+      },
+      "images":{
+        "cover":"images/Hikikomari-Kyuuketsuki-no-Monmon/Vexation_Volume_1.png",
+        "banner":"images/Hikikomari-Kyuuketsuki-no-Monmon/Hikikomari_banner.png"
+      },
+      "status":"Releasing",
+      "type":"Light Novel",
+      "translationType":"Official",
+      "translationGroup":"Yen Press",
+      "genres": ["Action","Comedy","Fantasy"],
+      "synopsis":"Three years into her life as a shut-in, vampire Terakomari Gandesblood (Komari for short), awakens to find she’s been appointed as a Commander in the Mulnite Imperial Army! The thing is, her new unit consists solely of belligerent ruffians who revolt against their superiors at the slightest hint of weakness. Although Komari hails from a line of vampires as powerful as they are prestigious, her refusal to drink blood has made her the picture of mediocrity—scrawny, un-coordinated, and inept at magic. With the odds stacked against her, will the help of her trusty (and slightly infatuated) maid Vill be enough for this recluse to blunder her way to success? Or will Komari rue the day she ever left the safety of her room?",
+      "volumes":[
+        {
+          "title":"Volume 1",
+          "cover":"images/Hikikomari-Kyuuketsuki-no-Monmon/Vexation_Volume_1.png",
+          "epub":"1Qj0MdA-dOgeq_-XHWYMNsD__-fy44qw8",
+          "pdf":""
+        },
+        {
+          "title":"Volume 2",
+          "cover":"images/Hikikomari-Kyuuketsuki-no-Monmon/Vexation_V2_Cover.jpg",
+          "epub":"17XIb8I4zTg31cdc_cVfKNqcooCW9jnuN",
+          "pdf":""
+        },
+        {
+          "title":"Volume 3",
+          "cover":"images/Hikikomari-Kyuuketsuki-no-Monmon/Vexation_V3_Cover.jpg",
+          "epub":"1WjWpvhkETWeHd3l6sgiEOelbCqBbFdsC",
+          "pdf":""
+        },
+        {
+          "title":"Volume 4",
+          "cover":"images/Hikikomari-Kyuuketsuki-no-Monmon/Vexation_V4_Cover.jpg",
+          "epub":"1DxdlJLJdXl-dRqVqVokWu0-7h02FCxM1",
+          "pdf":""
+        },
+        {
+          "title":"Volume 5",
+          "cover":"images/Hikikomari-Kyuuketsuki-no-Monmon/Vexation_V5_Cover.jpg",
+          "epub":"1BXuqY7N1n0uG6IXUJhfyQpjWaTvKwJSn",
+          "pdf":""
+        },
+        {
+          "title":"Volume 6",
+          "cover":"images/Hikikomari-Kyuuketsuki-no-Monmon/Vexation_V6_Cover.jpg",
+          "epub":"1K3_l4wXZl6NOloUraHjlMiJavj3ZTZaE",
+          "pdf":""
+        }
+      ]
+    },
+    {
       "id":"001",
       "title":{
         "jp":"Isekai wa Smartphone to Tomo ni.",
         "eng":"In Another World with my Smartphone"
       },
       "images":{
-        "cover":"../images/",
-        "banner":""
+        "cover":"images/isekai_smartphone/isekai_smartphone-1.jpg",
+        "banner":"images/isekai_smartphone/isekai_smartphone-banner.jpg"
       },
-      "status":"",
-      "type":"",
-      "translationType":"",
-      "translationGroup":"",
-      "genres": [],
+      "status":"Releasing",
+      "type":"Light Novel",
+      "translationType":"Official",
+      "translationGroup":"J-Novel Club",
+      "genres": ["Adventure","Comedy","Fantasy","Romance"],
+      "synopsis":"After a freak accident involving some lightning winds up zapping him dead, 15-year-old Mochizuki Touya wakes up to find himself face-to-face with God. “I am afraid to say that I have made a bit of a blunder...” laments the old coot. But all is not lost! God says that he can reincarnate Touya into a world of fantasy, and as a bonus, he gets to bring his smartphone along with! So begins Touya's adventure in a new, anachronistic pseudo-medieval world. Friends! Laughs! Tears! Inexplicable Deus ex Machina! He sets off on a journey full of wonder as he absentmindedly travels from place to place, following whatever goal catches his fancy. The curtains lift on an epic tale of swords, sorcery, and smartphone apps!",
       "volumes":[
         {
-          "title":"",
-          "epub":"",
+          "title":"Volume 1",
+          "cover":"images/isekai_smartphone/isekai_smartphone-1.jpg",
+          "epub":"1BiXlZYLJhc0lMxF26vddErbC3t0tM6Ns",
+          "pdf":"1P_6fd1oY8TvmUlD_RntTw5B3arylfXdf"
+        },
+        {
+          "title":"Volume 2",
+          "cover":"images/isekai_smartphone/isekai_smartphone-2.jpg",
+          "epub":"1Bj6MLTI04eeoPec2QLRFDuiwioWLCAIN",
+          "pdf":"1GYya-fcHBMxurjEAgdbNA4zA2XeCLuNh"
+        },
+        {
+          "title":"Volume 3",
+          "cover":"images/isekai_smartphone/isekai_smartphone-3.jpg",
+          "epub":"1BhRsUN9iJBIlaMzan-mt_5A73vNv55BH",
+          "pdf":""
+        },
+        {
+          "title":"Volume 4",
+          "cover":"images/isekai_smartphone/isekai_smartphone-4.jpg",
+          "epub":"1CBQ8qkE_6q1uncDJ-bsG6tEcn-y23TOu",
+          "pdf":""
+        },
+        {
+          "title":"Volume 5",
+          "cover":"images/isekai_smartphone/isekai_smartphone-5.jpg",
+          "epub":"1CZtUoQLEKgXXBIYC10kYrWZRMzyKPISn",
+          "pdf":""
+        },
+        {
+          "title":"Volume 6",
+          "cover":"images/isekai_smartphone/IsesumaLNV6_eng.jpg",
+          "epub":"1COIv5qkwW5AQ5mvSdLuyI6ZIjOIIaM1Y",
+          "pdf":""
+        },
+        {
+          "title":"Volume 7",
+          "cover":"images/isekai_smartphone/IsesumaLNV7_eng.jpg",
+          "epub":"1CLx3PQjrEQ59W1Oh7gGW44uLTnOL7Pcj",
+          "pdf":""
+        },
+        {
+          "title":"Volume 8",
+          "cover":"images/isekai_smartphone/IsesumaLNV8_eng.jpg",
+          "epub":"1Ca373WBSubCsXsx8s0N7L4cvNKaqbaVW",
+          "pdf":""
+        },
+        {
+          "title":"Volume 9",
+          "cover":"images/isekai_smartphone/IsesumaLNV9_eng.jpg",
+          "epub":"1Cszoph8goP27VMxNVBctOr_HksOEKn2m",
+          "pdf":""
+        },
+        {
+          "title":"Volume 10",
+          "cover":"images/isekai_smartphone/IsesumaLNV10_eng.jpg",
+          "epub":"1Cszoph8goP27VMxNVBctOr_HksOEKn2m",
+          "pdf":""
+        },
+        {
+          "title":"Volume 11",
+          "cover":"images/isekai_smartphone/IsesumaLNV11_eng.jpg",
+          "epub":"1Cy-bbdPCN76ZXn5kSpGcSylJI6R9BgzF",
+          "pdf":""
+        },
+        {
+          "title":"Volume 12",
+          "cover":"images/isekai_smartphone/IsesumaLNV12_eng.jpg",
+          "epub":"1CrSuiKaTEYMAvcrT0pAsYnYBBMUOX38W",
+          "pdf":""
+        },
+        {
+          "title":"Volume 13",
+          "cover":"images/isekai_smartphone/IsesumaLNV13_eng.jpg",
+          "epub":"1Crz6hrrezjTXywv-FsW83_FjiKx9Tuz2",
+          "pdf":""
+        },
+        {
+          "title":"Volume 14",
+          "cover":"images/isekai_smartphone/IsesumaLNV14_eng.jpg",
+          "epub":"15dR6LLTL3T8DZpOXRDpxT3tF74Rjb5GV",
+          "pdf":""
+        },
+        {
+          "title":"Volume 15",
+          "cover":"images/isekai_smartphone/IsesumaLNV15_eng.jpg",
+          "epub":"15j-cj8vgYkFfoFWrs7sl_COeufikBSBz",
+          "pdf":""
+        },
+        {
+          "title":"Volume 16",
+          "cover":"images/isekai_smartphone/IsesumaLNV16_eng.jpg",
+          "epub":"15wf6LQF-xMrJWr-z6Riqp_bGxeU8B1Nd",
+          "pdf":""
+        },
+        {
+          "title":"Volume 17",
+          "cover":"images/isekai_smartphone/IsesumaLNV17_eng.jpg",
+          "epub":"15zG8KhBj8Ew6gGNtEZSn3ibQBcqNwu95",
+          "pdf":""
+        },
+        {
+          "title":"Volume 18",
+          "cover":"images/isekai_smartphone/IsesumaLNV18_eng.jpg",
+          "epub":"158smJt49OFdI_wgnSNWb29IwINBZIj34",
+          "pdf":""
+        },
+        {
+          "title":"Volume 19",
+          "cover":"images/isekai_smartphone/IsesumaLNV19_eng.jpg",
+          "epub":"15K36pG7-_6spz1ASz-jXDCjf2fu6QVgl",
+          "pdf":""
+        },
+        {
+          "title":"Volume 20",
+          "cover":"images/isekai_smartphone/IsesumaLNV20_eng.jpg",
+          "epub":"1CQBF1H32QYw-N5BNRty-9ADxhOP8_L1y",
+          "pdf":""
+        },
+        {
+          "title":"Volume 21",
+          "cover":"images/isekai_smartphone/IsesumaLNV21_eng.jpg",
+          "epub":"1CJNv4Ngjf9MnXOzD5K2aCYANJE_m0Vg9",
+          "pdf":""
+        },
+        {
+          "title":"Volume 22",
+          "cover":"images/isekai_smartphone/IsesumaLNV22_eng.jpg",
+          "epub":"1CRF8zQ_KKV-uGOD1OeYkhqzo04o9J4FO",
+          "pdf":""
+        },
+        {
+          "title":"Volume 23",
+          "cover":"images/isekai_smartphone/IsesumaLNV23_eng.jpg",
+          "epub":"1C_gQhHnax2FqiozeEBNq8j_toGFfor-s",
+          "pdf":""
+        },
+        {
+          "title":"Volume 24",
+          "cover":"images/isekai_smartphone/IsesumaLNV24_eng.jpg",
+          "epub":"1CLSYOTdKChRdZK2rGTuo7HTU3XT5q5g_",
+          "pdf":""
+        },
+        {
+          "title":"Volume 25",
+          "cover":"images/isekai_smartphone/IsesumaLNV25_eng.jpg",
+          "epub":"1D4YwDFBDyks5xX3JRR3CrnYsdGXDHDQw",
+          "pdf":""
+        },
+        {
+          "title":"Volume 26",
+          "cover":"images/isekai_smartphone/IsesumaLNV26_eng.jpg",
+          "epub":"1D5D4w8Y8OeNil7AVldtbI-t0hKKrXceu",
+          "pdf":""
+        },
+        {
+          "title":"Volume 27",
+          "cover":"images/isekai_smartphone/IsesumaLNV27_eng.jpg",
+          "epub":"1EIwFJBW6w_xeIbWVyXkxflo8_grn32Cc",
+          "pdf":""
+        },
+        {
+          "title":"Volume 28",
+          "cover":"images/isekai_smartphone/IsesumaLNV28.jpg",
+          "epub":"1FqSEJLeqKhZJ-5Vud7kjZFYTEHxL0asM",
           "pdf":""
         }
       ]
