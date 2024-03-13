@@ -1,14 +1,105 @@
 {
   "data":[
     {
+      "id":"005",
+      "title":{
+        "jp":"86: Eighty Six",
+        "eng":"86―EIGHTY-SIX"
+      },
+      "images":{
+        "cover":"https://static.wikia.nocookie.net/86-eighty-six/https://warlock03.github.io/..../images/1/1d/Light_Novel_Volume_1_Cover_English.jpg/revision/latest?cb=20220206010804",
+        "banner":"https://static.wikia.nocookie.net/86-eighty-six/images/3/39/Spearhead_Squadron.png/revision/latest?cb=20210411035016"
+      },
+      "status":"Releasing",
+      "type":"Light Novel",
+      "translationType":"Official",
+      "translationGroup":"Yen Press",
+      "genres": ["Action","Drama","Mecha","Sci-Fi"],
+      "synopsis":"A War Without Casualties:<br/><br/>The Republic of San Magnolia has long been under attack from the neighboring Giadian Empire's army of unmanned drones known as the Legion. After years of painstaking research, the Republic finally developed autonomous drones of their own, turning the one-sided struggle into a war without casualties-or at least, that's what the government claims.<br/><br/>In truth, there is no such thing as a bloodless war. Beyond the fortified walls protecting the eighty-five Republic territories lies the \"nonexistent\" Eighty-Sixth Sector. The young men and women of this forsaken land are branded the Eighty-Six and, stripped of their humanity, pilot the \"unmanned\" weapons into battle...",
+      "volumes":[
+        {
+          "title":"Volume 1",
+          "cover":"https://static.wikia.nocookie.net/86-eighty-six/https://warlock03.github.io/..../images/1/1d/Light_Novel_Volume_1_Cover_English.jpg/revision/latest?cb=20220206010804",
+          "epub":"18-uehj8-bE4OU3P4c-Cdx8ujk3H2Q_ct",
+          "pdf":""
+        },
+        {
+          "title":"Volume 2",
+          "cover":"https://static.wikia.nocookie.net/86-eighty-six/images/9/92/English_cover_volume_2.png/revision/latest?cb=20191127134535",
+          "epub":"18B5E0-1PFrclxq929eREzcyKbtRHtyfq",
+          "pdf":""
+        },
+        {
+          "title":"Volume 3",
+          "cover":"https://static.wikia.nocookie.net/86-eighty-six/images/6/6a/English_cover_volume_3.png/revision/latest?cb=20191127135036",
+          "epub":"18MxLcfLrCMZ8ZxSbTcti7pP59Ch7l87y",
+          "pdf":""
+        },
+        {
+          "title":"Volume 4",
+          "cover":"https://static.wikia.nocookie.net/86-eighty-six/images/5/55/86_Volume_4_English.jpg/revision/latest?cb=20220206010339",
+          "epub":"18JyzVcXmFzYO6rYF-4ItcroeP3h7aLnP",
+          "pdf":""
+        },
+        {
+          "title":"Volume 5",
+          "cover":"https://static.wikia.nocookie.net/86-eighty-six/images/3/38/Volume_5_English.jpg/revision/latest?cb=20220206010454",
+          "epub":"18LqxnM-FOFnVWGDeTYM3cpeLzKiTe9BK",
+          "pdf":""
+        },
+        {
+          "title":"Volume 6",
+          "cover":"https://static.wikia.nocookie.net/86-eighty-six/images/4/4f/Volume_6_English.jpg/revision/latest?cb=20220206010600",
+          "epub":"17w9ODpLYCC7mmZRExvUAeEYpbJYfHolL",
+          "pdf":""
+        },
+        {
+          "title":"Volume 7",
+          "cover":"https://static.wikia.nocookie.net/86-eighty-six/images/b/b2/Volume_7_English.jpg/revision/latest?cb=20220206010611",
+          "epub":"185vQnJfDT_t3nCy5P9qm5bugOfQmn_Au",
+          "pdf":""
+        },
+        {
+          "title":"Volume 8",
+          "cover":"https://static.wikia.nocookie.net/86-eighty-six/images/3/37/86_v8_cover.jpg/revision/latest?cb=20200603213202",
+          "epub":"182w435KgR5aohWaUAniQOc9AebjmFl2P",
+          "pdf":""
+        },
+        {
+          "title":"Volume 9",
+          "cover":"https://static.wikia.nocookie.net/86-eighty-six/images/8/8f/Light_Novel_Volume_9_Cover.jpg/revision/latest?cb=20210201140419",
+          "epub":"17sxSst2ov8EiI4sLK6kTstd_Lv7w0BmE",
+          "pdf":""
+        },
+        {
+          "title":"Volume 10",
+          "cover":"https://static.wikia.nocookie.net/86-eighty-six/images/f/ff/Light_Novel_Volume_10_Cover.jpg/revision/latest?cb=20210522050240",
+          "epub":"17scjdm0rZyNdg1ujujx_B9sIyhfx3499",
+          "pdf":""
+        },
+        {
+          "title":"Volume 11",
+          "cover":"https://static.wikia.nocookie.net/86-eighty-six/images/a/af/Light_Novel_Volume_11_Cover.jpg/revision/latest?cb=20220209161407",
+          "epub":"18HpWWi0v04OkNtGCCXOSmoG9rCVbSJ4w",
+          "pdf":""
+        },
+        {
+          "title":"Volume 12",
+          "cover":"https://static.wikia.nocookie.net/86-eighty-six/images/8/85/V12_Cover_EN.jpg/revision/latest?cb=20230807235247",
+          "epub":"184AgqUEEIXQGLQqaweV4tWci6Wl7tWCj",
+          "pdf":""
+        }
+      ]
+    },
+    {
       "id":"004",
       "title":{
         "jp":"Haibara-kun no Tsuyokute Seishun New Game",
         "eng":"Haibara’s Teenage New Game+"
       },
       "images":{
-        "cover":"images/Haibaras-Teenage-New-Game/Haiharakuns-Strong-and-Youthful-New-Game.jpg",
-        "banner":"images/Haibaras-Teenage-New-Game/haibara-banner.jpg"
+        "cover":"https://warlock03.github.io/..../images/Haibaras-Teenage-New-Game/Haiharakuns-Strong-and-Youthful-New-Game.jpg",
+        "banner":"https://warlock03.github.io/..../images/Haibaras-Teenage-New-Game/haibara-banner.jpg"
       },
       "status":"Releasing",
       "type":"Light Novel",
@@ -19,31 +110,31 @@
       "volumes":[
         {
           "title":"Volume 1",
-          "cover":"images/Haibaras-Teenage-New-Game/Haiharakuns-Strong-and-Youthful-New-Game-1.jpg",
+          "cover":"https://warlock03.github.io/..../images/Haibaras-Teenage-New-Game/Haiharakuns-Strong-and-Youthful-New-Game.jpg",
           "epub":"1HSO0bm6khxdUxAFM4tgezgiCQtsJkruY",
           "pdf":""
         },
         {
           "title":"Volume 2",
-          "cover":"images/Haibaras-Teenage-New-Game/Haiharakuns-Strong-and-Youthful-New-Game-2.jpg",
+          "cover":"https://warlock03.github.io/..../images/Haibaras-Teenage-New-Game/Haiharakuns-Strong-and-Youthful-New-Game-2.jpg",
           "epub":"1HHcBtk7zXg379bVSgRyFpxedoGVnx5Bi",
           "pdf":""
         },
         {
           "title":"Volume 3",
-          "cover":"images/Haibaras-Teenage-New-Game/Haiharakuns-Strong-and-Youthful-New-Game-3.jpg",
+          "cover":"https://warlock03.github.io/..../images/Haibaras-Teenage-New-Game/Haiharakuns-Strong-and-Youthful-New-Game-3.jpg",
           "epub":"1HBY-e53FTdLnlpSP6gjovARZ9M2gDlC2",
           "pdf":""
         },
         {
           "title":"Volume 4",
-          "cover":"images/Haibaras-Teenage-New-Game/Haiharakuns-Strong-and-Youthful-New-Game_4.jpg",
+          "cover":"https://warlock03.github.io/..../images/Haibaras-Teenage-New-Game/Haiharakuns-Strong-and-Youthful-New-Game_4.jpg",
           "epub":"1H9ev3I-naJ_w66jUaobZU9IQk7GK4d1h",
           "pdf":""
         },
         {
           "title":"Volume 5",
-          "cover":"images/Haibaras-Teenage-New-Game/Haiharakuns-Strong-and-Youthful-New-Game-5.jpg",
+          "cover":"https://warlock03.github.io/..../images/Haibaras-Teenage-New-Game/Haiharakuns-Strong-and-Youthful-New-Game-5.jpg",
           "epub":"17Z0kj8ZZmFtv0oi03mI6glHqitJxdEEI",
           "pdf":""
         }
@@ -56,8 +147,8 @@
         "eng":"The Angel Next Door Spoils Me Rotten"
       },
       "images":{
-        "cover":"images/the-angel-next-door/angel-LN_V1_EN_Cover.jpg",
-        "banner":"images/the-angel-next-door/angel-banner.jpg"
+        "cover":"https://warlock03.github.io/..../images/the-angel-next-door/angel-LN_V1_EN_Cover.jpg",
+        "banner":"https://warlock03.github.io/..../images/the-angel-next-door/angel-banner.jpg"
       },
       "status":"Releasing",
       "type":"Light Novel",
@@ -68,43 +159,43 @@
       "volumes":[
         {
           "title":"Volume 1",
-          "cover":"images/the-angel-next-door/angel-LN_V1_EN_Cover.jpg",
+          "cover":"https://warlock03.github.io/..../images/the-angel-next-door/angel-LN_V1_EN_Cover.jpg",
           "epub":"1pDEiVDc99US21ZBn3zEXaQFVHkwuLdmA",
           "pdf":""
         },
         {
           "title":"Volume 2",
-          "cover":"images/the-angel-next-door/angel-LN_V2_EN_Cover.jpg",
+          "cover":"https://warlock03.github.io/..../images/the-angel-next-door/angel-LN_V2_EN_Cover.jpg",
           "epub":"1YPcthlhCxW8s2f5qU_aJFUrBgoDqo3d9",
           "pdf":""
         },
         {
           "title":"Volume 3",
-          "cover":"images/the-angel-next-door/angel-Vol_3.png",
+          "cover":"https://warlock03.github.io/..../images/the-angel-next-door/angel-Vol_3.png",
           "epub":"10h0bdVdPNBooI812Ss6oJGdajFbf__5s",
           "pdf":""
         },
         {
           "title":"Volume 4",
-          "cover":"images/the-angel-next-door/angel_LN_V4_EN_Cover.jpg",
+          "cover":"https://warlock03.github.io/..../images/the-angel-next-door/angel_LN_V4_EN_Cover.jpg",
           "epub":"1KeaG6IscmpimPE8aCSz-oypqJsvCHXlD",
           "pdf":""
         },
         {
           "title":"Volume 5",
-          "cover":"images/the-angel-next-door/angel_5.jpg",
+          "cover":"https://warlock03.github.io/..../images/the-angel-next-door/angel_5.jpg",
           "epub":"1Nv2g1k1ZtAhJflTsfUPXVyeXtUpK3nSl",
           "pdf":""
         },
         {
           "title":"Volume 5.5",
-          "cover":"images/the-angel-next-door/angel_5.5.jpg",
+          "cover":"https://warlock03.github.io/..../images/the-angel-next-door/angel_5.5.jpg",
           "epub":"1OWyQwuGtFxiVaYTCND0wKhsGC-LeC_1Z",
           "pdf":""
         },
         {
           "title":"Volume 6",
-          "cover":"images/the-angel-next-door/Angel_LN_V6_EN_Cover.jpg",
+          "cover":"https://warlock03.github.io/..../images/the-angel-next-door/Angel_LN_V6_EN_Cover.jpg",
           "epub":"1K4HTg4WscAa6zh4ceqff_1Wfjn23KGUL",
           "pdf":""
         }
@@ -117,8 +208,8 @@
         "eng":"The Vexations of a Shut-In Vampire Princess"
       },
       "images":{
-        "cover":"images/Hikikomari-Kyuuketsuki-no-Monmon/Vexation_Volume_1.png",
-        "banner":"images/Hikikomari-Kyuuketsuki-no-Monmon/Hikikomari_banner.png"
+        "cover":"https://warlock03.github.io/..../images/Hikikomari-Kyuuketsuki-no-Monmon/Vexation_Volume_1.png",
+        "banner":"https://warlock03.github.io/..../images/Hikikomari-Kyuuketsuki-no-Monmon/Hikikomari_banner.png"
       },
       "status":"Releasing",
       "type":"Light Novel",
@@ -129,37 +220,37 @@
       "volumes":[
         {
           "title":"Volume 1",
-          "cover":"images/Hikikomari-Kyuuketsuki-no-Monmon/Vexation_Volume_1.png",
+          "cover":"https://warlock03.github.io/..../images/Hikikomari-Kyuuketsuki-no-Monmon/Vexation_Volume_1.png",
           "epub":"1Qj0MdA-dOgeq_-XHWYMNsD__-fy44qw8",
           "pdf":""
         },
         {
           "title":"Volume 2",
-          "cover":"images/Hikikomari-Kyuuketsuki-no-Monmon/Vexation_V2_Cover.jpg",
+          "cover":"https://warlock03.github.io/..../images/Hikikomari-Kyuuketsuki-no-Monmon/Vexation_V2_Cover.jpg",
           "epub":"17XIb8I4zTg31cdc_cVfKNqcooCW9jnuN",
           "pdf":""
         },
         {
           "title":"Volume 3",
-          "cover":"images/Hikikomari-Kyuuketsuki-no-Monmon/Vexation_V3_Cover.jpg",
+          "cover":"https://warlock03.github.io/..../images/Hikikomari-Kyuuketsuki-no-Monmon/Vexation_V3_Cover.jpg",
           "epub":"1WjWpvhkETWeHd3l6sgiEOelbCqBbFdsC",
           "pdf":""
         },
         {
           "title":"Volume 4",
-          "cover":"images/Hikikomari-Kyuuketsuki-no-Monmon/Vexation_V4_Cover.jpg",
+          "cover":"https://warlock03.github.io/..../images/Hikikomari-Kyuuketsuki-no-Monmon/Vexation_V4_Cover.jpg",
           "epub":"1DxdlJLJdXl-dRqVqVokWu0-7h02FCxM1",
           "pdf":""
         },
         {
           "title":"Volume 5",
-          "cover":"images/Hikikomari-Kyuuketsuki-no-Monmon/Vexation_V5_Cover.jpg",
+          "cover":"https://warlock03.github.io/..../images/Hikikomari-Kyuuketsuki-no-Monmon/Vexation_V5_Cover.jpg",
           "epub":"1BXuqY7N1n0uG6IXUJhfyQpjWaTvKwJSn",
           "pdf":""
         },
         {
           "title":"Volume 6",
-          "cover":"images/Hikikomari-Kyuuketsuki-no-Monmon/Vexation_V6_Cover.jpg",
+          "cover":"https://warlock03.github.io/..../images/Hikikomari-Kyuuketsuki-no-Monmon/Vexation_V6_Cover.jpg",
           "epub":"1K3_l4wXZl6NOloUraHjlMiJavj3ZTZaE",
           "pdf":""
         }
@@ -172,8 +263,8 @@
         "eng":"In Another World with my Smartphone"
       },
       "images":{
-        "cover":"images/isekai_smartphone/isekai_smartphone-1.jpg",
-        "banner":"images/isekai_smartphone/isekai_smartphone-banner.jpg"
+        "cover":"https://warlock03.github.io/..../images/isekai_smartphone/isekai_smartphone-1.jpg",
+        "banner":"https://warlock03.github.io/..../images/isekai_smartphone/isekai_smartphone-banner.jpg"
       },
       "status":"Releasing",
       "type":"Light Novel",
@@ -184,169 +275,169 @@
       "volumes":[
         {
           "title":"Volume 1",
-          "cover":"images/isekai_smartphone/isekai_smartphone-1.jpg",
+          "cover":"https://warlock03.github.io/..../images/isekai_smartphone/isekai_smartphone-1.jpg",
           "epub":"1BiXlZYLJhc0lMxF26vddErbC3t0tM6Ns",
           "pdf":"1P_6fd1oY8TvmUlD_RntTw5B3arylfXdf"
         },
         {
           "title":"Volume 2",
-          "cover":"images/isekai_smartphone/isekai_smartphone-2.jpg",
+          "cover":"https://warlock03.github.io/..../images/isekai_smartphone/isekai_smartphone-2.jpg",
           "epub":"1Bj6MLTI04eeoPec2QLRFDuiwioWLCAIN",
           "pdf":"1GYya-fcHBMxurjEAgdbNA4zA2XeCLuNh"
         },
         {
           "title":"Volume 3",
-          "cover":"images/isekai_smartphone/isekai_smartphone-3.jpg",
+          "cover":"https://warlock03.github.io/..../images/isekai_smartphone/isekai_smartphone-3.jpg",
           "epub":"1BhRsUN9iJBIlaMzan-mt_5A73vNv55BH",
           "pdf":""
         },
         {
           "title":"Volume 4",
-          "cover":"images/isekai_smartphone/isekai_smartphone-4.jpg",
+          "cover":"https://warlock03.github.io/..../images/isekai_smartphone/isekai_smartphone-4.jpg",
           "epub":"1CBQ8qkE_6q1uncDJ-bsG6tEcn-y23TOu",
           "pdf":""
         },
         {
           "title":"Volume 5",
-          "cover":"images/isekai_smartphone/isekai_smartphone-5.jpg",
+          "cover":"https://warlock03.github.io/..../images/isekai_smartphone/isekai_smartphone-5.jpg",
           "epub":"1CZtUoQLEKgXXBIYC10kYrWZRMzyKPISn",
           "pdf":""
         },
         {
           "title":"Volume 6",
-          "cover":"images/isekai_smartphone/IsesumaLNV6_eng.jpg",
+          "cover":"https://warlock03.github.io/..../images/isekai_smartphone/IsesumaLNV6_eng.jpg",
           "epub":"1COIv5qkwW5AQ5mvSdLuyI6ZIjOIIaM1Y",
           "pdf":""
         },
         {
           "title":"Volume 7",
-          "cover":"images/isekai_smartphone/IsesumaLNV7_eng.jpg",
+          "cover":"https://warlock03.github.io/..../images/isekai_smartphone/IsesumaLNV7_eng.jpg",
           "epub":"1CLx3PQjrEQ59W1Oh7gGW44uLTnOL7Pcj",
           "pdf":""
         },
         {
           "title":"Volume 8",
-          "cover":"images/isekai_smartphone/IsesumaLNV8_eng.jpg",
+          "cover":"https://warlock03.github.io/..../images/isekai_smartphone/IsesumaLNV8_eng.jpg",
           "epub":"1Ca373WBSubCsXsx8s0N7L4cvNKaqbaVW",
           "pdf":""
         },
         {
           "title":"Volume 9",
-          "cover":"images/isekai_smartphone/IsesumaLNV9_eng.jpg",
+          "cover":"https://warlock03.github.io/..../images/isekai_smartphone/IsesumaLNV9_eng.jpg",
           "epub":"1Cszoph8goP27VMxNVBctOr_HksOEKn2m",
           "pdf":""
         },
         {
           "title":"Volume 10",
-          "cover":"images/isekai_smartphone/IsesumaLNV10_eng.jpg",
+          "cover":"https://warlock03.github.io/..../images/isekai_smartphone/IsesumaLNV10_eng.jpg",
           "epub":"1Cszoph8goP27VMxNVBctOr_HksOEKn2m",
           "pdf":""
         },
         {
           "title":"Volume 11",
-          "cover":"images/isekai_smartphone/IsesumaLNV11_eng.jpg",
+          "cover":"https://warlock03.github.io/..../images/isekai_smartphone/IsesumaLNV11_eng.jpg",
           "epub":"1Cy-bbdPCN76ZXn5kSpGcSylJI6R9BgzF",
           "pdf":""
         },
         {
           "title":"Volume 12",
-          "cover":"images/isekai_smartphone/IsesumaLNV12_eng.jpg",
+          "cover":"https://warlock03.github.io/..../images/isekai_smartphone/IsesumaLNV12_eng.jpg",
           "epub":"1CrSuiKaTEYMAvcrT0pAsYnYBBMUOX38W",
           "pdf":""
         },
         {
           "title":"Volume 13",
-          "cover":"images/isekai_smartphone/IsesumaLNV13_eng.jpg",
+          "cover":"https://warlock03.github.io/..../images/isekai_smartphone/IsesumaLNV13_eng.jpg",
           "epub":"1Crz6hrrezjTXywv-FsW83_FjiKx9Tuz2",
           "pdf":""
         },
         {
           "title":"Volume 14",
-          "cover":"images/isekai_smartphone/IsesumaLNV14_eng.jpg",
+          "cover":"https://warlock03.github.io/..../images/isekai_smartphone/IsesumaLNV14_eng.jpg",
           "epub":"15dR6LLTL3T8DZpOXRDpxT3tF74Rjb5GV",
           "pdf":""
         },
         {
           "title":"Volume 15",
-          "cover":"images/isekai_smartphone/IsesumaLNV15_eng.jpg",
+          "cover":"https://warlock03.github.io/..../images/isekai_smartphone/IsesumaLNV15_eng.jpg",
           "epub":"15j-cj8vgYkFfoFWrs7sl_COeufikBSBz",
           "pdf":""
         },
         {
           "title":"Volume 16",
-          "cover":"images/isekai_smartphone/IsesumaLNV16_eng.jpg",
+          "cover":"https://warlock03.github.io/..../images/isekai_smartphone/IsesumaLNV16_eng.jpg",
           "epub":"15wf6LQF-xMrJWr-z6Riqp_bGxeU8B1Nd",
           "pdf":""
         },
         {
           "title":"Volume 17",
-          "cover":"images/isekai_smartphone/IsesumaLNV17_eng.jpg",
+          "cover":"https://warlock03.github.io/..../images/isekai_smartphone/IsesumaLNV17_eng.jpg",
           "epub":"15zG8KhBj8Ew6gGNtEZSn3ibQBcqNwu95",
           "pdf":""
         },
         {
           "title":"Volume 18",
-          "cover":"images/isekai_smartphone/IsesumaLNV18_eng.jpg",
+          "cover":"https://warlock03.github.io/..../images/isekai_smartphone/IsesumaLNV18_eng.jpg",
           "epub":"158smJt49OFdI_wgnSNWb29IwINBZIj34",
           "pdf":""
         },
         {
           "title":"Volume 19",
-          "cover":"images/isekai_smartphone/IsesumaLNV19_eng.jpg",
+          "cover":"https://warlock03.github.io/..../images/isekai_smartphone/IsesumaLNV19_eng.jpg",
           "epub":"15K36pG7-_6spz1ASz-jXDCjf2fu6QVgl",
           "pdf":""
         },
         {
           "title":"Volume 20",
-          "cover":"images/isekai_smartphone/IsesumaLNV20_eng.jpg",
+          "cover":"https://warlock03.github.io/..../images/isekai_smartphone/IsesumaLNV20_eng.jpg",
           "epub":"1CQBF1H32QYw-N5BNRty-9ADxhOP8_L1y",
           "pdf":""
         },
         {
           "title":"Volume 21",
-          "cover":"images/isekai_smartphone/IsesumaLNV21_eng.jpg",
+          "cover":"https://warlock03.github.io/..../images/isekai_smartphone/IsesumaLNV21_eng.jpg",
           "epub":"1CJNv4Ngjf9MnXOzD5K2aCYANJE_m0Vg9",
           "pdf":""
         },
         {
           "title":"Volume 22",
-          "cover":"images/isekai_smartphone/IsesumaLNV22_eng.jpg",
+          "cover":"https://warlock03.github.io/..../images/isekai_smartphone/IsesumaLNV22_eng.jpg",
           "epub":"1CRF8zQ_KKV-uGOD1OeYkhqzo04o9J4FO",
           "pdf":""
         },
         {
           "title":"Volume 23",
-          "cover":"images/isekai_smartphone/IsesumaLNV23_eng.jpg",
+          "cover":"https://warlock03.github.io/..../images/isekai_smartphone/IsesumaLNV23_eng.jpg",
           "epub":"1C_gQhHnax2FqiozeEBNq8j_toGFfor-s",
           "pdf":""
         },
         {
           "title":"Volume 24",
-          "cover":"images/isekai_smartphone/IsesumaLNV24_eng.jpg",
+          "cover":"https://warlock03.github.io/..../images/isekai_smartphone/IsesumaLNV24_eng.jpg",
           "epub":"1CLSYOTdKChRdZK2rGTuo7HTU3XT5q5g_",
           "pdf":""
         },
         {
           "title":"Volume 25",
-          "cover":"images/isekai_smartphone/IsesumaLNV25_eng.jpg",
+          "cover":"https://warlock03.github.io/..../images/isekai_smartphone/IsesumaLNV25_eng.jpg",
           "epub":"1D4YwDFBDyks5xX3JRR3CrnYsdGXDHDQw",
           "pdf":""
         },
         {
           "title":"Volume 26",
-          "cover":"images/isekai_smartphone/IsesumaLNV26_eng.jpg",
+          "cover":"https://warlock03.github.io/..../images/isekai_smartphone/IsesumaLNV26_eng.jpg",
           "epub":"1D5D4w8Y8OeNil7AVldtbI-t0hKKrXceu",
           "pdf":""
         },
         {
           "title":"Volume 27",
-          "cover":"images/isekai_smartphone/IsesumaLNV27_eng.jpg",
+          "cover":"https://warlock03.github.io/..../images/isekai_smartphone/IsesumaLNV27_eng.jpg",
           "epub":"1EIwFJBW6w_xeIbWVyXkxflo8_grn32Cc",
           "pdf":""
         },
         {
           "title":"Volume 28",
-          "cover":"images/isekai_smartphone/IsesumaLNV28.jpg",
+          "cover":"https://warlock03.github.io/..../images/isekai_smartphone/IsesumaLNV28.jpg",
           "epub":"1FqSEJLeqKhZJ-5Vud7kjZFYTEHxL0asM",
           "pdf":""
         }
