@@ -1,6 +1,177 @@
 {
   "data":[
     {
+      "id":"009",
+      "userPreffered":"Mushoku Tensei: Jobless Reincarnation",
+      "score":"80",
+      "title":{
+        "jp":"Mushoku Tensei: Isekai Ittara Honki Dasu",
+        "eng":"Mushoku Tensei: Jobless Reincarnation"
+      },
+      "images":{
+        "cover":"https://static.wikia.nocookie.net/mushokutensei/images/3/34/LN_Vol_1_ENG.jpg/revision/latest?cb=20190324151429",
+        "banner":"https://static.wikia.nocookie.net/mushokutensei/images/d/da/LN_01_02.jpg/revision/latest?cb=20210902034012"
+      },
+      "status":"Releasing",
+      "type":"Light Novel",
+      "translationType":"Official",
+      "translationGroup":"Seven Seas Entertainment",
+      "genres": ["Adventure","Drama","Ecchi","Fantasy"],
+      "synopsis":"Kicked out by his family and wandering the streets, an unemployed 34-year-old shut-in thinks he’s hit rock-bottom—just as he’s hit and killed by a speeding truck! Awakening to find himself reborn as an infant in a world of swords and sorcery, but with the memories of his first life intact, Rudeus Greyrat is determined not to repeat his past mistakes. He’s going to make the most of this reincarnation as he sets off on the adventure of a second lifetime!",
+      "volumes":[
+        {
+          "title":"Volume 1",
+          "cover":"https://static.wikia.nocookie.net/mushokutensei/images/3/34/LN_Vol_1_ENG.jpg/revision/latest?cb=20190324151429",
+          "epub":"1GwBRDCuQ1srXe9b-V27R5sCU07WhvKby",
+          "pdf":""
+        },
+        {
+          "title":"Volume 2",
+          "cover":"https://static.wikia.nocookie.net/mushokutensei/images/e/e9/LN_Vol_2_ENG.jpg/revision/latest?cb=20190329171955",
+          "epub":"1HWs8MlFbf8XO1fQWlFSdPXU9XuFQI9UJ",
+          "pdf":""
+        },
+        {
+          "title":"Volume 3",
+          "cover":"https://static.wikia.nocookie.net/mushokutensei/images/a/a9/LN_Vol_3_EN.jpg/revision/latest?cb=20190329175822",
+          "epub":"1Ge2knZcERrOWD2cgJYviXhHgnkRExKp_",
+          "pdf":""
+        },
+        {
+          "title":"Volume 4",
+          "cover":"https://static.wikia.nocookie.net/mushokutensei/images/d/d7/LN_Vol_4_EN.jpg/revision/latest?cb=20191116014834",
+          "epub":"1ITYXtRoCOVUyyXtVzArhNWu59RuPcdKr",
+          "pdf":""
+        },
+        {
+          "title":"Volume 5",
+          "cover":"https://static.wikia.nocookie.net/mushokutensei/images/6/67/LN_Vol_5_EN.jpg/revision/latest?cb=20191116020849",
+          "epub":"1GiWl6nrIHJPjz7600JVEAV8Ww9dlA3le",
+          "pdf":""
+        },
+        {
+          "title":"Volume 6",
+          "cover":"https://static.wikia.nocookie.net/mushokutensei/images/a/a9/LN_Vol_6_EN.jpg/revision/latest?cb=20200124093307",
+          "epub":"1HZroURcj5qNVKIhJT3ayoo8vQlkfB0tN",
+          "pdf":""
+        },
+        {
+          "title":"Volume 7",
+          "cover":"https://static.wikia.nocookie.net/mushokutensei/images/c/c0/LN_Vol_7_EN.jpg/revision/latest?cb=20200726114828",
+          "epub":"1HueGHAXQFCeUARVvyT_g9vqi_RZDfKZr",
+          "pdf":""
+        },
+        {
+          "title":"Volume 8",
+          "cover":"https://static.wikia.nocookie.net/mushokutensei/images/4/4b/LN_Vol_8_EN.jpg/revision/latest?cb=20200726143116",
+          "epub":"1ITBkjEL490Ck_jfvKkjWjyVAThttg11O",
+          "pdf":""
+        },
+        {
+          "title":"Volume 9",
+          "cover":"https://static.wikia.nocookie.net/mushokutensei/images/1/13/LN_Vol_9_EN.jpg/revision/latest?cb=20200726114129",
+          "epub":"1HqLF7KdVhb3Du5hvxIIq4uhGkC2CVKWB",
+          "pdf":""
+        },
+        {
+          "title":"Volume 10",
+          "cover":"https://static.wikia.nocookie.net/mushokutensei/images/3/37/LN_Vol_10_EN.jpg/revision/latest?cb=20200726133240",
+          "epub":"1I6fgrqxkCwAwzvPaVSrJ9n2t_a-AE2qM",
+          "pdf":""
+        },
+        {
+          "title":"Volume 11",
+          "cover":"https://static.wikia.nocookie.net/mushokutensei/images/4/43/LN_Vol_11_EN.jpg/revision/latest?cb=20210515193939",
+          "epub":"1IIeQCQCBL6ZdZwtN-Ww0xqZzzWHdB94j",
+          "pdf":""
+        },
+        {
+          "title":"Volume 12",
+          "cover":"https://static.wikia.nocookie.net/mushokutensei/images/3/32/LN_Vol_12_EN.jpg/revision/latest?cb=20210518195023",
+          "epub":"1Gua4DxoLIX-LIypG0g7P53YcYBBYXCmW",
+          "pdf":""
+        },
+        {
+          "title":"Volume 13",
+          "cover":"https://static.wikia.nocookie.net/mushokutensei/images/9/95/LN_Vol_13_EN.jpg/revision/latest?cb=20211005160641",
+          "epub":"1HGVfIulVl5jqTLaNtCsUA-9ktOul1IEZ",
+          "pdf":""
+        },
+        {
+          "title":"Volume 14",
+          "cover":"https://static.wikia.nocookie.net/mushokutensei/images/4/4d/LN_Vol_14_EN.jpg/revision/latest?cb=20211019135632",
+          "epub":"1HjIk9v4vZv6VTQsiLH3FvjPOKdD5o_iO",
+          "pdf":""
+        },
+        {
+          "title":"Volume 15",
+          "cover":"https://static.wikia.nocookie.net/mushokutensei/images/2/28/LN_Vol_15_EN.jpg/revision/latest?cb=20211207032352",
+          "epub":"1GxnvYLwrzn_qmoZsX_CXcVx3C8FjHqDK",
+          "pdf":""
+        },
+        {
+          "title":"Volume 16",
+          "cover":"https://static.wikia.nocookie.net/mushokutensei/images/0/0a/LN_Vol_16_JP.png/revision/latest?cb=20190330065211",
+          "epub":"1GyxGnQGLbbXrRSVbIRl-UjTRZQyswX48",
+          "pdf":""
+        },
+        {
+          "title":"Volume 17",
+          "cover":"https://static.wikia.nocookie.net/mushokutensei/images/4/45/LN_Vol_17_EN.jpg/revision/latest?cb=20220516102156",
+          "epub":"1HH5UpLmpnQodXagcDxQ7C9F-p9iFhGa1",
+          "pdf":""
+        },
+        {
+          "title":"Volume 18",
+          "cover":"https://static.wikia.nocookie.net/mushokutensei/images/c/c0/LN_Vol_18_EN.jpg/revision/latest?cb=20230405111118",
+          "epub":"1HuxVcZM3uFQhuAiWKW_GMu-X91E-LHBN",
+          "pdf":""
+        },
+        {
+          "title":"Volume 19",
+          "cover":"https://static.wikia.nocookie.net/mushokutensei/images/b/b0/LN_Vol_19_EN.jpg/revision/latest?cb=20230405111228",
+          "epub":"1IGwFeMTRUYDu3XxSfl797VIjormjG-hw",
+          "pdf":""
+        },
+        {
+          "title":"Volume 20",
+          "cover":"https://static.wikia.nocookie.net/mushokutensei/images/7/79/LN_Vol_20_EN.jpg/revision/latest?cb=20221210124429",
+          "epub":"1Hrs69Q5hQkklU_XQ918rBGoQ_xi_jJpk",
+          "pdf":""
+        },
+        {
+          "title":"Volume 21",
+          "cover":"https://static.wikia.nocookie.net/mushokutensei/images/7/7f/LN_Vol_21_EN.jpeg/revision/latest?cb=20230405110641",
+          "epub":"1HPD5jZqxJ9zd6R9OBq6zqFMxyf7XBve1",
+          "pdf":""
+        },
+        {
+          "title":"Volume 22",
+          "cover":"https://static.wikia.nocookie.net/mushokutensei/images/3/39/LN_Vol_22_EN.jpg/revision/latest?cb=20230405111522",
+          "epub":"1GzgArNHFOWXWhZLYvMTBoEtQA6uncKC_",
+          "pdf":""
+        },
+        {
+          "title":"Volume 23",
+          "cover":"https://static.wikia.nocookie.net/mushokutensei/images/7/79/LN_Vol_23_EN.jpg/revision/latest?cb=20230405111606",
+          "epub":"1GdSLdGOorHMmgtGZJjQ7A9yMzZ75KHtd",
+          "pdf":""
+        },
+        {
+          "title":"Volume 24",
+          "cover":"https://static.wikia.nocookie.net/mushokutensei/images/a/aa/LN_Vol_24_EN.jpg/revision/latest?cb=20230405112106",
+          "epub":"1I2JHCzv-gjzVK0bNJuZU9EVP67JHJA1f",
+          "pdf":""
+        },
+        {
+          "title":"Volume 25",
+          "cover":"https://static.wikia.nocookie.net/mushokutensei/images/4/4b/Cover-MT-LN-V25-EN.png/revision/latest?cb=20231021000917",
+          "epub":"1Hbcq8JbgKIgSynrQFWPEuICjwywzpZm7",
+          "pdf":""
+        }
+      ]
+    },
+    {
       "id":"008",
       "userPreffered":"The Magical Revolution of the Reincarnated Princess and the Genius Young Lady",
       "score":"80",
