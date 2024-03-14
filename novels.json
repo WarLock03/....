@@ -2,6 +2,7 @@
   "data":[
     {
       "id":"008",
+      "userPreffered":"The Magical Revolution of the Reincarnated Princess and the Genius Young Lady",
       "title":{
         "jp":"Tensei Oujo to Tensai Reijou no Mahou Kakumei",
         "eng":"The Magical Revolution of the Reincarnated Princess and the Genius Young Lady"
@@ -51,6 +52,7 @@
     },
     {
       "id":"007",
+      "userPreffered":"Days with my Stepsister",
       "title":{
         "jp":"Gemai Seikatsu",
         "eng":"Days with my Stepsister"
@@ -124,6 +126,7 @@
     },
     {
       "id":"006",
+      "userPreffered":"Wandering Witch: The Journey of Elaina",
       "title":{
         "jp":"Majo No Tabitabi",
         "eng":"Wandering Witch: The Journey of Elaina"
@@ -215,6 +218,7 @@
     },
     {
       "id":"005",
+      "userPreffered":"86",
       "title":{
         "jp":"86: Eighty Six",
         "eng":"86―EIGHTY-SIX"
@@ -306,6 +310,7 @@
     },
     {
       "id":"004",
+      "userPreffered":"Haibara’s Teenage New Game+",
       "title":{
         "jp":"Haibara-kun no Tsuyokute Seishun New Game",
         "eng":"Haibara’s Teenage New Game+"
@@ -355,6 +360,7 @@
     },
     {
       "id":"003",
+      "userPreffered":"The Angel Next Door Spoils Me Rotten",
       "title":{
         "jp":"Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken",
         "eng":"The Angel Next Door Spoils Me Rotten"
@@ -416,6 +422,7 @@
     },
     {
       "id":"002",
+      "userPreffered":"The Vexations of a Shut-In Vampire Princess",
       "title":{
         "jp":"Hikikomari Kyuuketsuki no Monmon",
         "eng":"The Vexations of a Shut-In Vampire Princess"
@@ -471,6 +478,7 @@
     },
     {
       "id":"001",
+      "userPreffered":"In Another World with my Smartphone",
       "title":{
         "jp":"Isekai wa Smartphone to Tomo ni.",
         "eng":"In Another World with my Smartphone"
