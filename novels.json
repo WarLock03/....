@@ -1,6 +1,55 @@
 {
   "data":[
     {
+      "id":"008",
+      "title":{
+        "jp":"Tensei Oujo to Tensai Reijou no Mahou Kakumei",
+        "eng":"The Magical Revolution of the Reincarnated Princess and the Genius Young Lady"
+      },
+      "images":{
+        "cover":"https://static.wikia.nocookie.net/tenten-kakumei/images/f/fa/LNVol1JPN.png/revision/latest?cb=20221210145806",
+        "banner":"https://static.wikia.nocookie.net/tenten-kakumei/images/8/80/LNVol1_-_Illustration_color_1_%28English%29.png/revision/latest?cb=20221219140324"
+      },
+      "status":"Releasing",
+      "type":"Light Novel",
+      "translationType":"Official",
+      "translationGroup":"Yen Press",
+      "genres": ["Action","Drama","Fantasy","Romance"],
+      "synopsis":"Despite her supposed ineptitude with regular magic, Princess Anisphia defies the aristocracy’s expectations by developing “magicology,” a unique magical theory based on memories from her past life. One day, she witnesses the brilliant noblewoman Euphyllia unjustly stripped of her title as the kingdom’s next monarch. That’s when Anisphia concocts a plan to help Euphyllia regain her good name-which somehow involves them living together and researching magic! Little do these two ladies know, however, that their chance encounter will alter not only their own futures, but those of the kingdom...and the entire world!",
+      "volumes":[
+        {
+          "title":"Volume 1",
+          "cover":"https://static.wikia.nocookie.net/tenten-kakumei/images/f/fa/LNVol1JPN.png/revision/latest?cb=20221210145806",
+          "epub":"15ERy7TcvLy_MU9hWeXK1Xe-1xalDh3GW",
+          "pdf":""
+        },
+        {
+          "title":"Volume 2",
+          "cover":"https://static.wikia.nocookie.net/tenten-kakumei/images/6/68/LNVol2ENG.png/revision/latest?cb=20221211134800",
+          "epub":"15B-N0vP4GU1JiPnXa9vJE4D1YPWbYNuY",
+          "pdf":""
+        },
+        {
+          "title":"Volume 3",
+          "cover":"https://static.wikia.nocookie.net/tenten-kakumei/images/0/0f/LNVol3ENG.png/revision/latest?cb=20221211134813",
+          "epub":"152X3aN3XMfsMSkOxBvG0T29a4WX5uAMQ",
+          "pdf":""
+        },
+        {
+          "title":"Volume 4",
+          "cover":"https://static.wikia.nocookie.net/tenten-kakumei/images/2/2c/LNVol4ENG.png/revision/latest?cb=20230101102028",
+          "epub":"150jeHeMY76huHqHB9eMZ5dFMrpIoFVry",
+          "pdf":""
+        },
+        {
+          "title":"Volume 5",
+          "cover":"https://static.wikia.nocookie.net/tenten-kakumei/images/5/5b/LNVol5JPN.png/revision/latest?cb=20221211134833",
+          "epub":"14vzXNubpEP3pK4oGxU-nSu6-nzz-_xa-",
+          "pdf":""
+        }
+      ]
+    },
+    {
       "id":"007",
       "title":{
         "jp":"Gemai Seikatsu",
