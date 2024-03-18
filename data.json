@@ -34,6 +34,177 @@
       ]
     },
     {
+      "id":"38040",
+      "slug":"kono-subarashii-sekai-ni-shukufuku-wo-kurenai-densetsu",
+      "titles":{
+        "jp":"Kono Subarashii Sekai ni Shukufuku wo! Movie: Kurenai Densetsu",
+        "eng":"KonoSuba: God's Blessing on This Wonderful World! - Legend of Crimson",
+        "userPreffered":"Kono Subarashii Sekai ni Shukufuku wo! Movie: Kurenai Densetsu"
+      },
+      "cover":"https://media.themoviedb.org/t/p/w440_and_h660_face/drSQ0ENymLEtVI0cW9931jl6GQN.jpg",
+      "status":"Finished",
+      "type":"Anime",
+      "format":"Movie",
+      "rated":"PG-13",
+      "ratings":"8.43",
+      "studios":"J.C Staff",
+      "releaseDate":"2019",
+      "season":"Summer",
+      "totalEpisodes":"1",
+      "countryOfOrigin":"JP",
+      "source":"Light Novel",
+      "genres":["Adventure","Comedy","Fantasy"],
+      "theme":"Isekai, Parody",
+      "synopsis":"It is not strange that the Demon Lord's forces fear the Crimson Demons, the clan from which Megumin and Yunyun originate. Even if the Demon Lord's generals attack their village, the Crimson Demons can just easily brush them off with their supreme mastery of advanced and overpowered magic. When Yunyun receives a seemingly serious letter regarding a potential disaster coming to her hometown, she immediately informs Kazuma Satou and the rest of his party. After a series of wacky misunderstandings, it turns out to be a mere prank by her fellow demon who wants to be an author. Even so, Megumin becomes worried about her family and sets out toward the Crimson Demons' village with the gang. There, Kazuma and the others decide to sightsee the wonders of Megumin's birthplace. However, they soon come to realize that the nonsense threat they received might have been more than just a joke.",
+      "relations":[
+        
+      ],
+      "episodes":[
+        {
+          "title":"Legend of Crimson",
+          "number":"1"
+        }
+      ]
+    },
+    {
+      "id":"32937",
+      "slug":"kono-subarashii-sekai-ni-shukufuku-wo-2",
+      "titles":{
+        "jp":"Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "eng":"KonoSuba: God's Blessing on This Wonderful World! 2",
+        "userPreffered":"Kono Subarashii Sekai ni Shukufuku wo! 2"
+      },
+      "cover":"https://media.themoviedb.org/t/p/w440_and_h660_face/9CLFIi5VXjrvPLaYpW96RbHhXrh.jpg",
+      "status":"Finished",
+      "type":"Anime",
+      "format":"TV Series",
+      "rated":"PG-13",
+      "ratings":"8.26",
+      "studios":"Studio Deen",
+      "releaseDate":"2017",
+      "season":"Winter",
+      "totalEpisodes":"10",
+      "countryOfOrigin":"JP",
+      "source":"Light Novel",
+      "genres":["Adventure","Comedy","Fantasy"],
+      "theme":"Isekai, Parody",
+      "synopsis":"<i>Season 2 of KONOSUBA – God's blessing on this wonderful world!!</i><br><br>When Kazuma Satou died, he was given two choices: pass on to heaven or be revived in a fantasy world. After choosing the new world, the goddess Aqua tasked him with defeating the Demon King, and let him choose any weapon to aid him. Unfortunately, Kazuma chose to bring Aqua herself and has regretted the decision ever since then.<br><br>Not only is he stuck with a useless deity turned party archpriest, the pair also has to make enough money for living expenses. To add to their problems, their group continued to grow as more problematic adventurers joined their ranks. Their token spellcaster, Megumin, is an explosion magic specialist who can only cast one spell once per day and refuses to learn anything else. There is also their stalwart crusader, Lalatina \"Darkness\" Dustiness Ford, a helpless masochist who makes Kazuma look pure in comparison.<br><br>Kono Subarashii Sekai ni Shukufuku wo! 2 continues to follow Kazuma and the rest of his party through countless more adventures as they struggle to earn money and have to deal with one another's problematic personalities. However, things rarely go as planned, and they are often sidetracked by their own idiotic tendencies.<br><br>[Written by MAL Rewrite]",
+      "relations":[
+        
+      ],
+      "episodes":[
+        {
+          "title":"Give Me Deliverance from This Judicial Injustice!",
+          "number":"1"
+        },
+        {
+          "title":"A Friend for This Crimson Demon Girl!",
+          "number":"2"
+        },
+        {
+          "title":"Peace for the Master of This Labyrinth!",
+          "number":"3"
+        },
+        {
+          "title":"A Betrothed for This Noble Daughter!",
+          "number":"4"
+        },
+        {
+          "title":"Servitude for This Masked Knight!",
+          "number":"5"
+        },
+        {
+          "title":"Goodbye to This Irritating Living World!",
+          "number":"6"
+        },
+        {
+          "title":"An Invitation for This Knucklehead!",
+          "number":"7"
+        },
+        {
+          "title":"Sightseeing in This Pitiful City!",
+          "number":"8"
+        },
+        {
+          "title":"A Goddess for This Corrupt Hot Springs Town!",
+          "number":"9"
+        },
+        {
+          "title":"God's Blessing on This Wonderful Party!",
+          "number":"10"
+        }
+      ]
+    },
+    {
+      "id":"30831",
+      "slug":"kono-subarashii-sekai-ni-shukufuku-wo-",
+      "titles":{
+        "jp":"Kono Subarashii Sekai ni Shukufuku wo!",
+        "eng":"KonoSuba: God's Blessing on This Wonderful World!",
+        "userPreffered":"Kono Subarashii Sekai ni Shukufuku wo!"
+      },
+      "cover":"https://media.themoviedb.org/t/p/w440_and_h660_face/goHQR8tj0KSbEr8f3uTbxpfbU13.jpg",
+      "status":"Finished",
+      "type":"Anime",
+      "format":"TV Series",
+      "rated":"PG-13",
+      "ratings":"8.10",
+      "studios":"Studio Deen",
+      "releaseDate":"2016",
+      "season":"Winter",
+      "totalEpisodes":"10",
+      "countryOfOrigin":"JP",
+      "source":"Light Novel",
+      "genres":["Adventure","Comedy","Fantasy"],
+      "theme":"Isekai, Parody",
+      "synopsis":"After a traffic accident, Kazuma Sato’s disappointingly brief life was supposed to be over, but he wakes up to see a beautiful girl before him. She claims to be a goddess, Aqua, and asks if he would like to go to another world and bring only one thing with him. Kazuma decides to bring the goddess herself, and they are transported to a fantasy world filled with adventure, ruled by a demon king. Now Kazuma only wants to live in peace, but Aqua wants to solve many of this world’s problems, and the demon king will only turn a blind eye for so long…",
+      "relations":[
+        
+      ],
+      "episodes":[
+        {
+          "title":"This Self-Proclaimed Goddess and Reincarnation in Another World!",
+          "number":"1"
+        },
+        {
+          "title":"An Explosion for This Chunibyo!",
+          "number":"2"
+        },
+        {
+          "title":"A Panty Treasure in This Right Hand!",
+          "number":"3"
+        },
+        {
+          "title":"Explosion Magic for This Formidable Enemy!",
+          "number":"4"
+        },
+        {
+          "title":"A Price for This Cursed Sword!",
+          "number":"5"
+        },
+        {
+          "title":"A Conclusion to This Worthless Fight!",
+          "number":"6"
+        },
+        {
+          "title":"A Second Death in This Freezing Season!",
+          "number":"7"
+        },
+        {
+          "title":"A Loving Hand for Our Party When We Can't Make It Through Winter!",
+          "number":"8"
+        },
+        {
+          "title":"God's Blessing on This Wonderful Shop!",
+          "number":"9"
+        },
+        {
+          "title":"Final Flame for this Over-the-top Fortress!",
+          "number":"10"
+        }
+      ]
+    },
+    {
       "id":"37475",
       "slug":"kishuku-gakkou-no-juliet",
       "titles":{
@@ -41,7 +212,7 @@
         "eng":"Boarding School Juliet",
         "userPreffered":"Kishuku Gakkou no Juliet"
       },
-      "cover":"",
+      "cover":"https://media.themoviedb.org/t/p/w440_and_h660_face/lArjqSSSaSP5LOQO9shgn9HsuLB.jpg",
       "status":"Finished",
       "type":"Anime",
       "format":"TV Series",
