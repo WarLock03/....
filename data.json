@@ -1,35 +1,79 @@
 {
   "anime":[
     {
-      "id":"",
-      "slug":"",
+      "id":"51958",
+      "slug":"kono-subarashii-sekai-ni-bakuen-wo",
       "titles":{
-        "jp":"",
-        "eng":"",
-        "userPreffered":""
+        "jp":"Kono Subarashii Sekai ni Bakuen wo!",
+        "eng":"KonoSuba: An Explosion on This Wonderful World!",
+        "userPreffered":"Kono Subarashii Sekai ni Bakuen wo!"
       },
-      "cover":"",
-      "status":"",
+      "cover":"https://media.themoviedb.org/t/p/w440_and_h660_face/zJg4VXwgjQfXbezsiOxnswRRGCM.jpg",
+      "status":"Finished",
       "type":"Anime",
       "format":"TV Series",
       "rated":"PG-13",
-      "ratings":"",
-      "studios":"",
-      "releaseDate":"",
-      "season":"",
-      "totalEpisodes":"",
+      "ratings":"7.48",
+      "studios":"Drive",
+      "releaseDate":"2023",
+      "season":"Spring",
+      "totalEpisodes":"12",
       "countryOfOrigin":"JP",
-      "source":"",
-      "genres":[],
-      "theme":"",
-      "synopsis":"",
+      "source":"Light Novel",
+      "genres":["Adventure","Comedy","Fantasy"],
+      "theme":"Fantasy",
+      "synopsis":"This feisty young wizard will stop at nothing to master the spell that saved her life: Explosion! Megumin, the “Greatest Genius of the Crimson Magic Clan,” has chosen to devote her studies to the powerful offensive magic used by her mysterious savior. Then one day, her little sister finds a black kitten in the woods. But this cat isn’t just a new furry friend—she’s the key to awakening a Dark God!<br><br>(Source: Crunchyroll)",
       "relations":[
         
       ],
       "episodes":[
         {
-          "title":"",
-          "number":""
+          "title":"The Crimson-Eyed Wizards",
+          "number":"1"
+        },
+        {
+          "title":"The Magic Academy's Taboo",
+          "number":"2"
+        },
+        {
+          "title":"Guardians of the Crimson Demon Village",
+          "number":"3"
+        },
+        {
+          "title":"The Crimson-Eyed Lonely Master",
+          "number":"4"
+        },
+        {
+          "title":"Prelude to an Explosion of Madness",
+          "number":"5"
+        },
+        {
+          "title":"The Raison D'être of an Explosive NEET",
+          "number":"6"
+        },
+        {
+          "title":"Troublemakers of the City of Water",
+          "number":"7"
+        },
+        {
+          "title":"Fanatics of the Water City",
+          "number":"8"
+        },
+        {
+          "title":"Destroyer From the Crimson Demon Village",
+          "number":"9"
+        },
+        {
+          "title":"Outlaws of the Town for Beginners",
+          "number":"10"
+        },
+        {
+          "title":"The Explosion Girl and the Forest Irregularity",
+          "number":"11"
+        },
+        {
+          "title":"An Explosion on This Wonderful World!",
+          "number":"12"
         }
       ]
     },
