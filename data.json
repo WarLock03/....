@@ -2,6 +2,7 @@
   "anime":[
     {
       "id":"",
+      "slug":"",
       "titles":{
         "jp":"",
         "eng":"",
@@ -16,6 +17,7 @@
       "studios":"",
       "releaseDate":"",
       "season":"",
+      "totalEpisodes":"",
       "countryOfOrigin":"JP",
       "source":"",
       "genres":[],
@@ -27,6 +29,83 @@
       "episodes":[
         {
           
+        }
+      ]
+    },
+    {
+      "id":"35203",
+      "slug":"isekai-wa-smartphone-to-tomo-ni",
+      "titles":{
+        "jp":"Isekai wa Smartphone to Tomo ni.",
+        "eng":"In Another World With My Smartphone",
+        "userPreffered":"Isekai wa Smartphone to Tomo ni"
+      },
+      "cover":"https://media.themoviedb.org/t/p/w440_and_h660_face/ym8ZsooSc81T5ZDF16HuzSG3UlC.jpg",
+      "status":"Finished",
+      "type":"Anime",
+      "format":"TV Series",
+      "rated":"PG-13",
+      "ratings":"6.13",
+      "studios":"Production REED",
+      "releaseDate":"2017",
+      "season":"Summer",
+      "totalEpisodes":"12",
+      "countryOfOrigin":"JP",
+      "source":"Light Novel",
+      "genres":["Adventure","Comedy","Fantasy","Romance"],
+      "theme":"Harem, Isekai",
+      "synopsis":"In a thoughtless blunder, God accidentally strikes down Touya Mochizuki with a stray bolt of lightning! As an apology, God offers him one wish and the chance to live again in a magical fantasy world. Touya happily accepts the offer and, for his one wish, asks only to keep his smartphone with him as he begins his journey into this mysterious world.<br><br>Starting over in this new world, Touya finds it is filled with magic—which he has an affinity for—and cute girls vying for his attention. These girls—the twins Linze and Elze Silhoueska, Yumina Urnea Belfast, Leen, and Yae Kokonoe—provide Touya with no end of romantic frustrations, but also companionship as he discovers the secrets of this new world.<br><br>[Written by MAL Rewrite]",
+      "relations":[
+        
+      ],
+      "episodes":[
+        {
+          "title":"Awakening, and Another World",
+          "number":"1"
+        },
+        {
+          "title":"First Journey, and Samurai",
+          "number":"2"
+        },
+        {
+          "title":"Shougi Board, and Underground Ruins",
+          "number":"3"
+        },
+        {
+          "title":"Engagement, and an Uninvited Visitor",
+          "number":"4"
+        },
+        {
+          "title":"Slime Castle, and New Functions",
+          "number":"5"
+        },
+        {
+          "title":"Moving, and a Dragon",
+          "number":"6"
+        },
+        {
+          "title":"Nation of Beastmen, and an Observer",
+          "number":"7"
+        },
+        {
+          "title":"Daily Life, and Onward to Eashen",
+          "number":"8"
+        },
+        {
+          "title":"Oedo, and the Immortal Gem",
+          "number":"9"
+        },
+        {
+          "title":"Ocean, and Vacations",
+          "number":"10"
+        },
+        {
+          "title":"Panties, and an Aerial Garden",
+          "number":"11"
+        },
+        {
+          "title":"Decisions, and With My Smartphone",
+          "number":"12"
         }
       ]
     },
