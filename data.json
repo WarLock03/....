@@ -1,0 +1,143 @@
+{
+  "anime":[
+    {
+      "id":"40974",
+      "titles":{
+        "jp":"Kuma Kuma Kuma Bear Punch!",
+        "eng":"Kuma Kuma Kuma Bear - Punch!",
+        "userPreffered":"Kuma Kuma Kuma Bear Punch!"
+      },
+      "cover":"https://media.themoviedb.org/t/p/w440_and_h660_face/5R1VHsCObikzII3b0qbKykyNAoA.jpg",
+      "status":"Finished",
+      "type":"Anime",
+      "format":"TV Series",
+      "rated":"PG-13",
+      "ratings":"7.28",
+      "studios":"EMT Squared",
+      "releaseDate":"2023",
+      "season":"Spring",
+      "countryOfOrigin":"JP",
+      "source":"Light Novel",
+      "genres":["Adventure","Comedy","Fantasy"],
+      "theme":"Isekai",
+      "synopsis":"<i>The second season of Kuma Kuma Kuma Bear</i><br><br>Ever since moving to an in-game world after countless hours of VRMMO grinding, Yuna now calls Crimonia—the city where she started—home. While maintaining her reputation as a renowned adventurer, she continues to manage her businesses; but most importantly, Yuna spends time with the people she has grown to love. Nevertheless, this world has a lot more to offer the carefree adventurer. It is up to Yuna to discover these wonders, and perhaps help more people in need as she encounters their various plights.<br><br>[Written by MAL Rewrite]",
+      "relations":[
+        
+      ],
+      "episodes":[
+        
+      ]
+    },
+    {
+      "id":"40974",
+      "titles":{
+        "jp":"Kuma Kuma Kuma Bear Punch!",
+        "eng":"Kuma Kuma Kuma Bear - Punch!",
+        "userPreffered":"Kuma Kuma Kuma Bear Punch!"
+      },
+      "cover":"https://media.themoviedb.org/t/p/w440_and_h660_face/5R1VHsCObikzII3b0qbKykyNAoA.jpg",
+      "status":"Finished",
+      "type":"Anime",
+      "format":"TV Series",
+      "rated":"PG-13",
+      "ratings":"7.28",
+      "studios":"EMT Squared",
+      "releaseDate":"2023",
+      "season":"Spring",
+      "countryOfOrigin":"JP",
+      "source":"Light Novel",
+      "genres":["Adventure","Comedy","Fantasy"],
+      "theme":"Isekai",
+      "synopsis":"<i>The second season of Kuma Kuma Kuma Bear</i><br><br>Ever since moving to an in-game world after countless hours of VRMMO grinding, Yuna now calls Crimonia—the city where she started—home. While maintaining her reputation as a renowned adventurer, she continues to manage her businesses; but most importantly, Yuna spends time with the people she has grown to love. Nevertheless, this world has a lot more to offer the carefree adventurer. It is up to Yuna to discover these wonders, and perhaps help more people in need as she encounters their various plights.<br><br>[Written by MAL Rewrite]",
+      "relations":[
+        
+      ],
+      "episodes":[
+        {
+          "title":"",
+          "number":""
+        }
+      ]
+    },
+    {
+      "id":"40974",
+      "titles":{
+        "jp":"Kuma Kuma Kuma Bear",
+        "eng":"Kuma Kuma Kuma Bear",
+        "userPreffered":"Kuma Kuma Kuma Bear"
+      },
+      "cover":"https://media.themoviedb.org/t/p/w440_and_h660_face/gRCjPd2XJydQMvbfZtHD2yTgKKE.jpg",
+      "status":"Finished",
+      "type":"Anime",
+      "format":"TV Series",
+      "rated":"PG-13",
+      "ratings":"7.23",
+      "studios":"EMT Squared",
+      "releaseDate":"2020",
+      "season":"Fall",
+      "countryOfOrigin":"JP",
+      "source":"Light Novel",
+      "genres":["Adventure","Comedy","Fantasy"],
+      "theme":"Isekai",
+      "synopsis":"After fanatically playing the VRMMO World Fantasy Online for almost a year, the shut-in yet relatively affluent 15-year-old Yuna receives a bear costume from the game's administrators. The outfit, while somewhat embarrassing to wear, turns out to have overpowered stats and effects that make her character significantly more powerful. After accepting the bear equipment, she finds herself transported to another in-game world that prevents her from returning to reality.<br><br>Confused and unable to log out, Yuna sets out to explore this new environment. She rescues a girl named Fina from wild wolves, who then guides her to the city of Crimonia. With her eccentric bear attire, however, Yuna stands out wherever she goes, and alongside her boosted fighting prowess, her reputation quickly rises—to the point that people give her the nickname \"Bloody Bear.\"<br><br>Undeterred by this change in her life, Yuna decides to take on the role of an adventurer and fully enjoy herself in her new world.<br><br>[Written by MAL Rewrite]",
+      "relations":[
+        {
+          "title":"",
+          "cover":"",
+          "relationType":"",
+          "type":""
+        }
+      ],
+      "episodes":[
+        {
+          "title":"Bear, Appears",
+          "number":"1"
+        },
+        {
+          "title":"Bear, Meets Little Girl",
+          "number":"2"
+        },
+        {
+          "title":"Bear, Goes on Rampage",
+          "number":"3"
+        },
+        {
+          "title":"Bear, Meets Feudal Lord",
+          "number":"4"
+        },
+        {
+          "title":"Bear, Raises a Bird (?)",
+          "number":"5"
+        },
+        {
+          "title":"Bear, Watches Over the Sisters",
+          "number":"6"
+        },
+        {
+          "title":"Bear, Goes to Royal Capital",
+          "number":"7"
+        },
+        {
+          "title":"Bear, Lays to Waste",
+          "number":"8"
+        },
+        {
+          "title":"Bear, Opens Shop",
+          "number":"9"
+        },
+        {
+          "title":"Bear, Goes to Sea",
+          "number":"10"
+        },
+        {
+          "title":"Bear, Fights Squid (?)",
+          "number":"11"
+        },
+        {
+          "title":"Miss Bear and Fina",
+          "number":"12"
+        }
+      ]
+    }
+  ]
+}
