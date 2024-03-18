@@ -33,6 +33,83 @@
       ]
     },
     {
+      "id":"52082",
+      "slug":"shiro-seijo-to-kuro-bokushi",
+      "titles":{
+        "jp":"Shiro Seijo to Kuro Bokushi",
+        "eng":"Saint Cecilia and Pastor Lawrence",
+        "userPreffered":"Shiro Seijo to Kuro Bokushi"
+      },
+      "cover":"https://media.themoviedb.org/t/p/w440_and_h660_face/4Twu5WXhRfbBsJwSZEqqMKrwyvj.jpg",
+      "status":"Finished",
+      "type":"Anime",
+      "format":"TV Series",
+      "rated":"PG-13",
+      "ratings":"7.37",
+      "studios":"Doga Kobo",
+      "releaseDate":"2023",
+      "season":"Summer",
+      "totalEpisodes":"12",
+      "countryOfOrigin":"JP",
+      "source":"Manga",
+      "genres":["Fantasy","Romance"],
+      "theme":"Shounen",
+      "synopsis":"In a small church atop a hill, Pastor Lawrence looks after Saint Cecilia. Her presence is a beacon of hope for the villagers, as her mysterious powers protect them from the weakness of their minds and outside evils. While she appears dignified in front of the villagers, Cecilia allows her lazy side to show when alone with the pastor. Although Cecilia is the guardian of the people, Lawrence is determined to shield her from harm.<br><br>Unbeknownst to Lawrence, Cecilia harbors a huge crush on him. She accompanies him on his shopping trips and provides him with divine protection every day. Despite Lawrence remaining oblivious to her true feelings, Cecilia continues to shower him with obvious displays of affection as the bond between them grows.<br><br>[Written by MAL Rewrite]",
+      "relations":[
+        
+      ],
+      "episodes":[
+        {
+          "title":"The Relationship Between Them",
+          "number":"1"
+        },
+        {
+          "title":"The Things They Protect",
+          "number":"2"
+        },
+        {
+          "title":"Lawrence's Concerns",
+          "number":"3"
+        },
+        {
+          "title":"She Who Is Called the Lady Saint",
+          "number":"4"
+        },
+        {
+          "title":"First Official Trip",
+          "number":"5"
+        },
+        {
+          "title":"Abel & Hazelita",
+          "number":"6"
+        },
+        {
+          "title":"Cecilia's Worries",
+          "number":"7"
+        },
+        {
+          "title":"Frederica's Bequest",
+          "number":"8"
+        },
+        {
+          "title":"Lady Saint's Divine Protection",
+          "number":"9"
+        },
+        {
+          "title":"The Feelings",
+          "number":"10"
+        },
+        {
+          "title":"The Way They Met",
+          "number":"11"
+        },
+        {
+          "title":"The Shape of Their Relationship",
+          "number":"12"
+        }
+      ]
+    },
+    {
       "id":"51632",
       "slug":"isekai-wa-smartphone-to-tomo-ni-2nd-season",
       "titles":{
