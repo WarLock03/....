@@ -31,7 +31,129 @@
       ]
     },
     {
+      "id":"54492",
+      "slug":"kusuriya-no-hitorigoto",
+      "titles":{
+        "jp":"Kusuriya no Hitorigoto",
+        "eng":"The Apothecary Diaries",
+        "userPreffered":"Kusuriya no Hitorigoto"
+      },
+      "cover":"https://media.themoviedb.org/t/p/w440_and_h660_face/sUep3kEPjvXp3VKAfNikpzBZmzw.jpg",
+      "status":"Airing",
+      "type":"Anime",
+      "format":"TV Series",
+      "rated":"PG-13",
+      "ratings":"8.84",
+      "totalEpisodes":"24",
+      "studios":"OLM, TOHO animation STUDIO",
+      "releaseDate":"2023",
+      "season":"Fall",
+      "countryOfOrigin":"JP",
+      "source":"Manga",
+      "genres":["Drama","Mystery"],
+      "theme":"Historical",
+      "synopsis":"Maomao, an apothecary's daughter, has been plucked from her peaceful life and sold to the lowest echelons of the imperial court. Now merely a maid, Maomao settles into her new mundane life and hides her extensive knowledge of medicine in order to avoid any unwanted attention.<br><brNot long after Maomao's arrival, the emperor's infant children inexplicably begin to experience grave symptoms—almost as if a curse has been cast. The curious Maomao easily solves the mystery and, to remain out of the limelight, attempts to leave an anonymous tip. Unfortunately, the dashing and perceptive eunuch Jinshi sees through it and manages to single her out.<br><brIn recognition of her talent, Maomao is promoted to lady-in-waiting for the emperor's favorite concubine, Gyokuyou. As Maomao continues to remedy the numerous ailments afflicting the imperial court, her pharmaceutical expertise quickly proves indispensable.<br><br>[Written by MAL Rewrite]",
+      "relations":[
+        
+      ],
+      "episodes":[
+        {
+          "title":"Maomao",
+          "number":"1"
+        },
+        {
+          "title":"Chilly Apothecary",
+          "number":"2"
+        },
+        {
+          "title":"The Unsettling Matter of the Spirit",
+          "number":"3"
+        },
+        {
+          "title":"The Threat",
+          "number":"4"
+        },
+        {
+          "title":"Covert Operations",
+          "number":"5"
+        },
+        {
+          "title":"The Garden Party",
+          "number":"6"
+        },
+        {
+          "title":"Homecoming",
+          "number":"7"
+        },
+        {
+          "title":"Wheat Stalks",
+          "number":"8"
+        },
+        {
+          "title":"Suicide of Murder?",
+          "number":"9"
+        },
+        {
+          "title":"Honey",
+          "number":"10"
+        },
+        {
+          "title":"Reducing Two to One",
+          "number":"11"
+        },
+        {
+          "title":"The Eunuch and the Courtesan",
+          "number":"12"
+        },
+        {
+          "title":"Serving in the Outer Court",
+          "number":"13"
+        },
+        {
+          "title":"The New Pure Consort",
+          "number":"14"
+        },
+        {
+          "title":"Raw Fish",
+          "number":"15"
+        },
+        {
+          "title":"Lead",
+          "number":"16"
+        },
+        {
+          "title":"A Jaunt Around Town",
+          "number":"17"
+        },
+        {
+          "title":"Lakan",
+          "number":"18"
+        },
+        {
+          "title":"Chance or Something More",
+          "number":"19"
+        },
+        {
+          "title":"Thornapple",
+          "number":"20"
+        },
+        {
+          "title":"How to Buy Out a Contract",
+          "number":"21"
+        },
+        {
+          "title":"Blue Roses",
+          "number":"22"
+        },
+        {
+          "title":"Balsam and Woodsorrel",
+          "number":"23"
+        }
+      ]
+    },
+    {
       "id":"52991",
+      "slug":"sousou-no-frieren",
       "titles":{
         "jp":"Sousou no Frieren",
         "eng":"Frieren: Beyond Journey's End",
@@ -43,6 +165,7 @@
       "format":"TV Series",
       "rated":"PG-13",
       "ratings":"9.18",
+      "totalEpisodes":"28",
       "studios":"MadHouse",
       "releaseDate":"2023",
       "season":"Fall",
@@ -167,6 +290,7 @@
     },
     {
       "id":"45486",
+      "slug":"kuma-kuma-kuma-bear-2nd-season",
       "titles":{
         "jp":"Kuma Kuma Kuma Bear Punch!",
         "eng":"Kuma Kuma Kuma Bear - Punch!",
@@ -178,6 +302,7 @@
       "format":"TV Series",
       "rated":"PG-13",
       "ratings":"7.28",
+      "totalEpisodes":"12",
       "studios":"EMT Squared",
       "releaseDate":"2023",
       "season":"Spring",
@@ -242,6 +367,7 @@
     },
     {
       "id":"40974",
+      "slug":"kuma-kuma-kuma-bear",
       "titles":{
         "jp":"Kuma Kuma Kuma Bear",
         "eng":"Kuma Kuma Kuma Bear",
@@ -252,6 +378,7 @@
       "type":"Anime",
       "format":"TV Series",
       "rated":"PG-13",
+      "totalEpisodes":"12",
       "ratings":"7.23",
       "studios":"EMT Squared",
       "releaseDate":"2020",
