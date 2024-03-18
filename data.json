@@ -1,35 +1,172 @@
 {
   "anime":[
     {
-      "id":"40974",
+      "id":"",
       "titles":{
-        "jp":"Kuma Kuma Kuma Bear Punch!",
-        "eng":"Kuma Kuma Kuma Bear - Punch!",
-        "userPreffered":"Kuma Kuma Kuma Bear Punch!"
+        "jp":"",
+        "eng":"",
+        "userPreffered":""
       },
-      "cover":"https://media.themoviedb.org/t/p/w440_and_h660_face/5R1VHsCObikzII3b0qbKykyNAoA.jpg",
-      "status":"Finished",
+      "cover":"",
+      "status":"",
       "type":"Anime",
       "format":"TV Series",
       "rated":"PG-13",
-      "ratings":"7.28",
-      "studios":"EMT Squared",
-      "releaseDate":"2023",
-      "season":"Spring",
+      "ratings":"",
+      "studios":"",
+      "releaseDate":"",
+      "season":"",
       "countryOfOrigin":"JP",
-      "source":"Light Novel",
-      "genres":["Adventure","Comedy","Fantasy"],
-      "theme":"Isekai",
-      "synopsis":"<i>The second season of Kuma Kuma Kuma Bear</i><br><br>Ever since moving to an in-game world after countless hours of VRMMO grinding, Yuna now calls Crimonia—the city where she started—home. While maintaining her reputation as a renowned adventurer, she continues to manage her businesses; but most importantly, Yuna spends time with the people she has grown to love. Nevertheless, this world has a lot more to offer the carefree adventurer. It is up to Yuna to discover these wonders, and perhaps help more people in need as she encounters their various plights.<br><br>[Written by MAL Rewrite]",
+      "source":"",
+      "genres":[],
+      "theme":"",
+      "synopsis":"",
       "relations":[
         
       ],
       "episodes":[
-        
+        {
+          
+        }
       ]
     },
     {
-      "id":"40974",
+      "id":"52991",
+      "titles":{
+        "jp":"Sousou no Frieren",
+        "eng":"Frieren: Beyond Journey's End",
+        "userPreffered":"Sousou no Frieren"
+      },
+      "cover":"https://media.themoviedb.org/t/p/w440_and_h660_face/bRwyDiOajOFwg2o7kLPnr1Lgbub.jpg",
+      "status":"Airing",
+      "type":"Anime",
+      "format":"TV Series",
+      "rated":"PG-13",
+      "ratings":"9.18",
+      "studios":"MadHouse",
+      "releaseDate":"2023",
+      "season":"Fall",
+      "countryOfOrigin":"JP",
+      "source":"Manga",
+      "genres":["Adventure","Drama","Fantasy"],
+      "theme":"Shounen",
+      "synopsis":"During their decade-long quest to defeat the Demon King, the members of the hero's party—Himmel himself, the priest Heiter, the dwarf warrior Eisen, and the elven mage Frieren—forge bonds through adventures and battles, creating unforgettable precious memories for most of them.<br><br>However, the time that Frieren spends with her comrades is equivalent to merely a fraction of her life, which has lasted over a thousand years. When the party disbands after their victory, Frieren casually returns to her \"usual\" routine of collecting spells across the continent. Due to her different sense of time, she seemingly holds no strong feelings toward the experiences she went through.<br><br>As the years pass, Frieren gradually realizes how her days in the hero's party truly impacted her. Witnessing the deaths of two of her former companions, Frieren begins to regret having taken their presence for granted; she vows to better understand humans and create real personal connections. Although the story of that once memorable journey has long ended, a new tale is about to begin.<br><br>[Written by MAL Rewrite]",
+      "relations":[
+        
+      ],
+      "episodes":[
+        {
+          "title":"The Journey's End",
+          "number":"1"
+        },
+        {
+          "title":"It Didn't Have to Be Magic...",
+          "number":"2"
+        },
+        {
+          "title":"Killing Magic",
+          "number":"3"
+        },
+        {
+          "title":"The Land Where Souls Rest",
+          "number":"4"
+        },
+        {
+          "title":"Phantoms of the Dead",
+          "number":"5"
+        },
+        {
+          "title":"The Hero of the Village",
+          "number":"6"
+        },
+        {
+          "title":"Like a Fairy Tale",
+          "number":"7"
+        },
+        {
+          "title":"Frieren the Slayer",
+          "number":"8"
+        },
+        {
+          "title":"Aura the Guillotine",
+          "number":"9"
+        },
+        {
+          "title":"A Powerful Mage",
+          "number":"10"
+        },
+        {
+          "title":"Winter in the Northern Lands",
+          "number":"11"
+        },
+        {
+          "title":"A Real Hero",
+          "number":"12"
+        },
+        {
+          "title":"Aversion to One's Own Kind",
+          "number":"13"
+        },
+        {
+          "title":"Privilege of the Young",
+          "number":"14"
+        },
+        {
+          "title":"Smells Like Trouble",
+          "number":"15"
+        },
+        {
+          "title":"Long-Lived Friends",
+          "number":"16"
+        },
+        {
+          "title":"Take Care",
+          "number":"17"
+        },
+        {
+          "title":"First-Class Mage Exam",
+          "number":"18"
+        },
+        {
+          "title":"Well-Laid Plans",
+          "number":"19"
+        },
+        {
+          "title":"Necessary Killing",
+          "number":"20"
+        },
+        {
+          "title":"The World of Magic",
+          "number":"21"
+        },
+        {
+          "title":"Future Enemies",
+          "number":"22"
+        },
+        {
+          "title":"Conquering the Labyrinth",
+          "number":"23"
+        },
+        {
+          "title":"Perfect Replicas",
+          "number":"24"
+        },
+        {
+          "title":"A Fatal Vulnerability",
+          "number":"25"
+        },
+        {
+          "title":"The Height of Magic",
+          "number":"26"
+        },
+        {
+          "title":"An Era of Humans",
+          "number":"27"
+        }
+      ]
+    },
+    {
+      "id":"45486",
       "titles":{
         "jp":"Kuma Kuma Kuma Bear Punch!",
         "eng":"Kuma Kuma Kuma Bear - Punch!",
@@ -54,8 +191,52 @@
       ],
       "episodes":[
         {
-          "title":"",
-          "number":""
+          "title":"Bear Comes Home",
+          "number":"1"
+        },
+        {
+          "title":"Bear, Watching Over Students",
+          "number":"2"
+        },
+        {
+          "title":"Bear, Surprising All",
+          "number":"3"
+        },
+        {
+          "title":"Bear, Guiding the Young Girl",
+          "number":"4"
+        },
+        {
+          "title":"Bear, Seeking Mithril",
+          "number":"5"
+        },
+        {
+          "title":"Bear, Becoming the Hero (?)",
+          "number":"6"
+        },
+        {
+          "title":"Bear, Getting Lectured",
+          "number":"7"
+        },
+        {
+          "title":"Bear, Studying Black Tea",
+          "number":"8"
+        },
+        {
+          "title":"Bear, Knowing of Nobles",
+          "number":"9"
+        },
+        {
+          "title":"Bear, Getting Motivated",
+          "number":"10"
+        },
+        {
+          "title":"Bear, Going Bare",
+          "number":"11"
+        },
+        {
+          "title":"Tale of a Bear",
+          "number":"12"
         }
       ]
     },
