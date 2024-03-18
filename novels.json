@@ -846,6 +846,112 @@
   ],
   "animes":[
     {
+      "id":"84431",
+      "titles":{
+        "jp":"Kuma Kuma Kuma Bear Punch!",
+        "eng":"Kuma Kuma Kuma Bear - Punch!"
+      },
+      "images":{
+        "cover":"https://media.themoviedb.org/t/p/w440_and_h660_face/5R1VHsCObikzII3b0qbKykyNAoA.jpg",
+        "banner":"https://media.themoviedb.org/t/p/w1000_and_h563_face/yr2OIXlFOPSwByHhRw9qioUOSm.jpg"
+      },
+      "providers":{
+        "mal":"45486"
+      },
+      "slug":"kuma-kuma-kuma-bear---punch-",
+      "episodes":[
+        {
+          "title":"Bear Comes Home",
+          "number":"1",
+          "cover":"",
+          "synopsis":""
+        },
+        {
+          "title":"Bear, Watching Over Students",
+          "number":"2",
+          "cover":"",
+          "synopsis":""
+        },
+        {
+          "title":"Bear, Surprising All",
+          "number":"3",
+          "cover":"",
+          "synopsis":""
+        },
+        {
+          "title":"Bear, Guiding the Young Girl",
+          "number":"4",
+          "cover":"",
+          "synopsis":""
+        },
+        {
+          "title":"Bear, Seeking Mithril",
+          "number":"5",
+          "cover":"",
+          "synopsis":""
+        },
+        {
+          "title":"Bear, Becoming the Hero (?)",
+          "number":"6",
+          "cover":"",
+          "synopsis":""
+        },
+        {
+          "title":"Bear, Getting Lectured",
+          "number":"7",
+          "cover":"",
+          "synopsis":""
+        },
+        {
+          "title":"Bear, Studying Black Tea",
+          "number":"8",
+          "cover":"",
+          "synopsis":""
+        },
+        {
+          "title":"Bear, Knowing of Nobles",
+          "number":"9",
+          "cover":"",
+          "synopsis":""
+        },
+        {
+          "title":"Bear, Getting Motivated",
+          "number":"10",
+          "cover":"",
+          "synopsis":""
+        },
+        {
+          "title":"Bear, Going Bare",
+          "number":"11",
+          "cover":"",
+          "synopsis":""
+        },
+        {
+          "title":"Tale of a Bear",
+          "number":"12",
+          "cover":"",
+          "synopsis":""
+        }
+      ],
+      "relations":[
+         {
+          "id":"84430",
+          "titles":{
+            "jp":"Kuma Kuma Kuma Bear",
+            "eng":"Kuma Kuma Kuma Bear"
+          },
+          "cover":"https://media.themoviedb.org/t/p/w440_and_h660_face/yLOiO2hnAGtIyY6sH5fNZqY919I.jpg",
+          "type":"Anime",
+          "relationType":"Prequel",
+          "format":"TV Series",
+          "slug":"kuma-kuma-kuma-bear",
+          "providers":{
+            "mal":"40974"
+          }
+        }
+      ]
+    },
+    {
       "id":"84430",
       "titles":{
         "jp":"Kuma Kuma Kuma Bear",
@@ -874,12 +980,6 @@
         },
         {
           "title":"Bear, Goes on Rampage",
-          "number":"3",
-          "cover":"",
-          "synopsis":""
-        },
-        {
-          "title":"Bear, Meets the Feudal Lord",
           "number":"3",
           "cover":"",
           "synopsis":""
@@ -941,18 +1041,18 @@
       ],
       "relations":[
          {
-          "id":"0",
+          "id":"84431",
           "titles":{
-            "jp":"",
-            "eng":""
+            "jp":"Kuma Kuma Kuma Bear Punch!",
+            "eng":"Kuma Kuma Kuma Bear - Punch!"
           },
-          "cover":"",
-          "type":"",
-          "relationType":"",
-          "format":"",
-          "slug":"",
+          "cover":"https://media.themoviedb.org/t/p/w440_and_h660_face/5R1VHsCObikzII3b0qbKykyNAoA.jpg",
+          "type":"Anime",
+          "relationType":"Sequel",
+          "format":"TV Series",
+          "slug":"kuma-kuma-kuma-bear---punch-",
           "providers":{
-            "mal":""
+            "mal":"45486"
           }
         }
       ]
