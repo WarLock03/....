@@ -28,7 +28,85 @@
       ],
       "episodes":[
         {
-          
+          "title":"",
+          "number":""
+        }
+      ]
+    },
+    {
+      "id":"37475",
+      "slug":"kishuku-gakkou-no-juliet",
+      "titles":{
+        "jp":"Kishuku Gakkou no Juliet",
+        "eng":"Boarding School Juliet",
+        "userPreffered":"Kishuku Gakkou no Juliet"
+      },
+      "cover":"",
+      "status":"Finished",
+      "type":"Anime",
+      "format":"TV Series",
+      "rated":"PG-13",
+      "ratings":"7.45",
+      "studios":"LIDENFILMS",
+      "releaseDate":"2018",
+      "season":"Fall",
+      "totalEpisodes":"12",
+      "countryOfOrigin":"JP",
+      "source":"Manga",
+      "genres":["Action","Comedy","Romance"],
+      "theme":"School Life",
+      "synopsis":"We lay our scene in the fair Dahlia Academy, where two countries, both alike in dignity, come together; the \"Black Doggies\" of the Eastern Nation of Touwa and \"White Cats\" of the Principality of West have a longstanding feud. Romio Inuzuka and Juliet Persia, leaders of their respective dorms, seem to be bitter enemies.<br><br>In reality, however, Romio and Juliet are hopelessly in love, but revealing their relationship would call upon the ire of all their comrades. They hide their love to maintain peace, but a clandestine relationship means they miss out on many of the activities couples get to do. As they grow closer together, Romio and Juliet must come to terms with the fact that keeping their relationship a secret may prove to be impossible.<br><br>[Written by MAL Rewrite]",
+      "relations":[
+        
+      ],
+      "episodes":[
+        {
+          "title":"Romio Inuzuka and Juliet Persia",
+          "number":"1"
+        },
+        {
+          "title":"Rosary and Juliet",
+          "number":"2"
+        },
+        {
+          "title":"Romio and Princess Char",
+          "number":"3"
+        },
+        {
+          "title":"Romio and Hasuki",
+          "number":"4"
+        },
+        {
+          "title":"Romio and the Sports Festival",
+          "number":"5"
+        },
+        {
+          "title":"Juliet and the Sports Festival",
+          "number":"6"
+        },
+        {
+          "title":"Romio and Juliet and the Sports Festival",
+          "number":"7"
+        },
+        {
+          "title":"Romio and the Prefect",
+          "number":"8"
+        },
+        {
+          "title":"Romio and Char and the Present",
+          "number":"9"
+        },
+        {
+          "title":"Romio and Airu",
+          "number":"10"
+        },
+        {
+          "title":"Romio and Juliet and the Birthday",
+          "number":"11"
+        },
+        {
+          "title":"Romio and Juliet",
+          "number":"12"
         }
       ]
     },
