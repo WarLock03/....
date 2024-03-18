@@ -33,6 +33,83 @@
       ]
     },
     {
+      "id":"51632",
+      "slug":"isekai-wa-smartphone-to-tomo-ni-2nd-season",
+      "titles":{
+        "jp":"Isekai wa Smartphone to Tomo ni.",
+        "eng":"In Another World With My Smartphone",
+        "userPreffered":"Isekai wa Smartphone to Tomo ni."
+      },
+      "cover":"https://media.themoviedb.org/t/p/w440_and_h660_face/amV5cDC4mwFIqw56SAzc4eTetJM.jpg",
+      "status":"Finished",
+      "type":"Anime",
+      "format":"TV Series",
+      "rated":"PG-13",
+      "ratings":"6.44",
+      "studios":"J.C Staff",
+      "releaseDate":"2023",
+      "season":"Spring",
+      "totalEpisodes":"12",
+      "countryOfOrigin":"JP",
+      "source":"Light Novel",
+      "genres":["Adventure","Comedy","Fantasy","Romance"],
+      "theme":"Harem, Isekai",
+      "synopsis":"Touya Mochizuki grows accustomed to his new life in another world. Armed with his trusty smartphone, the teenager accepts small quests at his leisure while spending time with his new fiancées: Yumina Urnea Belfast, Yae Kokonoe, and twin sisters Linse and Elze Shileska. But even in a relaxing environment, Touya is only beginning to understand the responsibilities that come with these engagements.<br><br>In addition to his romantic woes, the elder fairy Lean wishes to locate the remaining pieces of Babylon, the floating island that the mysterious Professor Regina Babylon created five thousand years ago. Touya reluctantly accepts her request and seeks out the teleportation circles that will lead to the islands. However, strange monsters have emerged—possibly powerful enough to destroy the world. In order to save the second life he was given, Touya must weaponize ancient technologies to fight these monsters—all while balancing his overwhelming number of relationships.<br><br>[Written by MAL Rewrite]",
+      "relations":[
+        
+      ],
+      "episodes":[
+        {
+          "title":"Engagement Rings and a Hot Spring",
+          "number":"1"
+        },
+        {
+          "title":"Deserted Survivors and the Workshop",
+          "number":"2"
+        },
+        {
+          "title":"Collecting Books and a Library Café",
+          "number":"3"
+        },
+        {
+          "title":"Upheaval in the Castle and an Imperial Princess",
+          "number":"4"
+        },
+        {
+          "title":"The Fifth Wife And A Newly Founded Nation",
+          "number":"5"
+        },
+        {
+          "title":"The Alchemy Ward and an Unexpected Reunion",
+          "number":"6"
+        },
+        {
+          "title":"The Hangar and Frame Gears",
+          "number":"7"
+        },
+        {
+          "title":"Two Princes and the Small Fiancée",
+          "number":"8"
+        },
+        {
+          "title":"Day-Off Dates and the Female Knight",
+          "number":"9"
+        },
+        {
+          "title":"Amnesia and the Mystic Eye of Petrification",
+          "number":"10"
+        },
+        {
+          "title":"Sister From Another World and a Sparkling First Love",
+          "number":"11"
+        },
+        {
+          "title":"Birth of a Prince and With My Smartphone",
+          "number":"12"
+        }
+      ]
+    },
+    {
       "id":"35203",
       "slug":"isekai-wa-smartphone-to-tomo-ni",
       "titles":{
