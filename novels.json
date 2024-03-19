@@ -44,12 +44,42 @@
       "translationType":"Official",
       "translationGroup":"J-Novel Club",
       "genres": ["Action","Fantasy"],
-      "synopsis":"",
+      "synopsis":"As a self-professed no-lifer, Yuri idles his days away in front of a computer. This all changes the moment his life in Japan comes to an abrupt end and he finds himself reborn in the strange new world of the Shiyalta Kingdom. His new life includes everything he once lacked: loving parents, a comfortable home, and a promising future breeding and raising birds on his dad’s ranch. For centuries, the kingdom he now calls home has enjoyed peace and prosperity, shielded by friendly nations that, like Shiyalta itself, were established with the collapse of a once-great empire. War is a distant problem, relevant only to Shiyalta’s ruling families whose warriors periodically set out to join the fighting upon massive birds trained by Yuri’s dad and others. But this peaceful existence can’t last forever. Something rotten lies at the heart of the kingdom, and it doesn’t take someone with Yuri’s exceptional intelligence to realize that those distant battles will only remain irrelevant for so long.",
       "volumes":[
         {
           "title":"Volume 1",
-          "cover":"",
-          "epub":"",
+          "cover":"https://preview.redd.it/qoo2c6fon1991.jpg?width=640&crop=smart&auto=webp&s=b8c951a6af6145e83d41982b90cb17a18d1e2c86",
+          "epub":"10Fspa-oIMfx0jO7Ge7yVlBQxNXm7RMYv",
+          "pdf":""
+        },
+        {
+          "title":"Volume 2",
+          "cover":"https://img1.od-cdn.com/ImageType-400/6645-1/%7B34B00CBF-23DD-438B-9CF9-C1F48A6988CD%7DIMG400.JPG",
+          "epub":"10AhfoMF3Zgzfjv59YjS1-u1yp2n2NzvY",
+          "pdf":""
+        },
+        {
+          "title":"Volume 3",
+          "cover":"https://img1.od-cdn.com/ImageType-400/6645-1/%7B50DCC102-C871-4F4B-8F02-A8F81C34D090%7DIMG400.JPG",
+          "epub":"10TLrutAXhtAqe7AG9hPDBZIISurjYiKs",
+          "pdf":""
+        },
+        {
+          "title":"Volume 4",
+          "cover":"https://img1.od-cdn.com/ImageType-400/6645-1/%7BDD388889-DBF1-45B7-B38D-2AF64BE52BBC%7DIMG400.JPG",
+          "epub":"10Xy_wtznU1PaRDs2AeO11ECBpU_Pnd81",
+          "pdf":""
+        },
+        {
+          "title":"Volume 5",
+          "cover":"https://img1.od-cdn.com/ImageType-400/6645-1/%7B8319D2F5-C238-40D2-8993-AB5681B39D7D%7DIMG400.JPG",
+          "epub":"10YDx1h47TwLUEeV7qLrxPWIR0HgeL232",
+          "pdf":""
+        },
+        {
+          "title":"Volume 6",
+          "cover":"https://img1.od-cdn.com/ImageType-400/6645-1/%7B02BE1281-CD26-49B8-9CC5-4F638B846C80%7DIMG400.JPG",
+          "epub":"1M3wrvrrNqflbdPkTk_xmSRb8C-OV8Hoy",
           "pdf":""
         }
       ]
@@ -277,7 +307,7 @@
         {
           "title":"Volume 6",
           "cover":"https://images.yenpress.com/imgs/9781975380496.jpg?w=408&h=612&type=books&s=1b336518803b61f3f5a781f82ade9214",
-          "epub":"https://drive.google.com/file/d/1M-_F18W67oGxtVpFg3leMNYVJXxv84Vb/view?usp=drivesdk",
+          "epub":"1M-_F18W67oGxtVpFg3leMNYVJXxv84Vb",
           "pdf":""
         }
       ]
