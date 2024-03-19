@@ -28,6 +28,63 @@
       ]
     },
     {
+      "id":"011",
+      "userPreffered":"The Eminence in Shadow",
+      "score":"82",
+      "title":{
+        "jp":"Kage no Jitsuryokusha ni Naritakute!",
+        "eng":"The Eminence in Shadow"
+      },
+      "images":{
+        "cover":"https://static.wikia.nocookie.net/to-be-a-power-in-the-shadows/images/f/f1/Cover-LN-V1-JP.jpg/revision/latest?cb=20220906182809",
+        "banner":""
+      },
+      "status":"Releasing",
+      "type":"Light Novel",
+      "translationType":"Official",
+      "translationGroup":"Yen Press",
+      "genres": ["Action","Comedy","Fantasy"],
+      "synopsis":"One big fat lie and a few twisted truths.<br><br>Even in his past life, Cid's dream wasn't to become a protagonist or a final boss. He'd rather lie low as a minor character until it's prime time to reveal he's a mastermind...or at least, do the next best thing-pretend to be one! And now that he's been reborn into another world, he's ready to set the perfect conditions to live out his dreams to the fullest. Armed with his overactive imagination, Cid jokingly recruits members to his organization and makes up a whole backstory about an evil cult that they need to take down. Well, as luck would have it, these imaginary adversaries turn out to be the real deal-and everyone knows the truth but him!",
+      "volumes":[
+        {
+          "title":"Volume 1",
+          "cover":"https://static.wikia.nocookie.net/to-be-a-power-in-the-shadows/images/f/f1/Cover-LN-V1-JP.jpg/revision/latest?cb=20220906182809",
+          "epub":"1DvT3jUpIDtI5AC5V2YMp9YFb1b5X5Z1a",
+          "pdf":""
+        },
+        {
+          "title":"Volume 2",
+          "cover":"https://static.wikia.nocookie.net/to-be-a-power-in-the-shadows/images/e/ec/Cover-LN-V2-EN.jpg/revision/latest?cb=20221113145035",
+          "epub":"1-eoCrDAtiucjal3UMvghHqArJtbwjIiM",
+          "pdf":""
+        },
+        {
+          "title":"Volume 3",
+          "cover":"https://static.wikia.nocookie.net/to-be-a-power-in-the-shadows/images/8/8a/Cover-LN-V3-EN.jpg/revision/latest?cb=20221113151610",
+          "epub":"1qENlpJ4emMonbwN-ufZPdcFe1ghdw0pF",
+          "pdf":""
+        },
+        {
+          "title":"Volume 4",
+          "cover":"https://static.wikia.nocookie.net/to-be-a-power-in-the-shadows/images/d/d8/Cover-LN-V4-EN.jpg/revision/latest?cb=20221113151706",
+          "epub":"1tBLbXpWQ9f2zX8IUp95Ko8m3A7ZW_lNO",
+          "pdf":""
+        },
+        {
+          "title":"Volume 5",
+          "cover":"https://static.wikia.nocookie.net/to-be-a-power-in-the-shadows/images/9/94/Cover-LN-V5-JP.jpg/revision/latest?cb=20221114172522",
+          "epub":"16BBaDS0UwIdqQILVL8Hui8NqPe3nNv-y",
+          "pdf":""
+        },
+        {
+          "title":"Volume 6",
+          "cover":"https://static.wikia.nocookie.net/to-be-a-power-in-the-shadows/images/2/24/Cover-LN-V6.png/revision/latest?cb=20231130025336",
+          "epub":"167xhlixOmvMziQy1oOt2tjiMftkb8CqZ",
+          "pdf":""
+        }
+      ]
+    },
+    {
       "id":"010",
       "userPreffered":"The Conqueror from a Dying Kingdom",
       "score":"74",
