@@ -1,6 +1,60 @@
 {
   "novels":[
     {
+      "id":"010",
+      "userPreffered":"",
+      "score":"",
+      "title":{
+        "jp":"",
+        "eng":""
+      },
+      "images":{
+        "cover":"",
+        "banner":""
+      },
+      "status":"",
+      "type":"",
+      "translationType":"Official",
+      "translationGroup":"",
+      "genres": [],
+      "synopsis":"",
+      "volumes":[
+        {
+          "title":"Volume 1",
+          "cover":"",
+          "epub":"",
+          "pdf":""
+        }
+      ]
+    },
+    {
+      "id":"010",
+      "userPreffered":"The Conqueror from a Dying Kingdom",
+      "score":"74",
+      "title":{
+        "jp":"Horobi no Kuni no Seifukusha: Maou wa Sekai wo Seifuku Suruyou desu",
+        "eng":"The Conqueror from a Dying Kingdom"
+      },
+      "images":{
+        "cover":"https://preview.redd.it/qoo2c6fon1991.jpg?width=640&crop=smart&auto=webp&s=b8c951a6af6145e83d41982b90cb17a18d1e2c86",
+        "banner":""
+      },
+      "status":"Releasing",
+      "type":"Light Novel",
+      "translationType":"Official",
+      "translationGroup":"J-Novel Club",
+      "genres": ["Action","Fantasy"],
+      "synopsis":"",
+      "volumes":[
+        {
+          "title":"Volume 1",
+          "cover":"",
+          "epub":"",
+          "pdf":""
+        }
+      ]
+    },
+    {
       "id":"009",
       "userPreffered":"Mushoku Tensei: Jobless Reincarnation",
       "score":"88",
@@ -218,6 +272,12 @@
           "title":"Volume 5",
           "cover":"https://static.wikia.nocookie.net/tenten-kakumei/images/5/5b/LNVol5JPN.png/revision/latest?cb=20221211134833",
           "epub":"14vzXNubpEP3pK4oGxU-nSu6-nzz-_xa-",
+          "pdf":""
+        },
+        {
+          "title":"Volume 6",
+          "cover":"https://images.yenpress.com/imgs/9781975380496.jpg?w=408&h=612&type=books&s=1b336518803b61f3f5a781f82ade9214",
+          "epub":"https://drive.google.com/file/d/1M-_F18W67oGxtVpFg3leMNYVJXxv84Vb/view?usp=drivesdk",
           "pdf":""
         }
       ]
