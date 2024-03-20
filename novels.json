@@ -1,6 +1,57 @@
 {
   "novels":[
     {
+      "id":"015",
+      "userPreffered":"",
+      "score":"77",
+      "title":{
+        "jp":"Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san",
+        "eng":"Alya Sometimes Hides Her Feelings in Russian"
+      },
+      "images":{
+        "cover":"https://images.yenpress.com/imgs/9781975367619.jpg?w=408&h=612&type=books&s=996ee70bb903bf5253d7df4ec9c54823",
+        "banner":""
+      },
+      "status":"Releasing",
+      "type":"Light Novel",
+      "translationType":"Official",
+      "translationGroup":"Yen Press",
+      "genres": ["Comedy","Romance","Slice of Life"],
+      "synopsis":"Masachika Kuze sits next to Alya, a girl of Russian and Japanese descent. She’s beautiful, haughty, and an exceptional student, while Masachika is nerdy and known for being a slacker. He’s an easy target for her comments in Russian, which she’s all too happy to translate—except he can understand what she’s really saying!",
+      "volumes":[
+        {
+          "title":"Volume 1",
+          "cover":"https://images.yenpress.com/imgs/9781975347840.jpg?w=408&h=612&type=books&s=10f45818805510ef666511fcebc66125",
+          "epub":"1Cda5whBZxVyltYNValp61vF-lapPFGc6",
+          "pdf":""
+        },
+        {
+          "title":"Volume 2",
+          "cover":"https://images.yenpress.com/imgs/9781975347864.jpg?w=408&h=612&type=books&s=21ce7b7de8891000144d3cb92c5f562c",
+          "epub":"1DrjJftyO8FLGu6r7nX4j5vgnGMOk1vL7",
+          "pdf":""
+        },
+        {
+          "title":"Volume 3",
+          "cover":"https://images.yenpress.com/imgs/9781975367572.jpg?w=408&h=612&type=books&s=6abfb2c87c111c74ae58c184e1c3812a",
+          "epub":"1y0b_0YGolL5B6wTynfkGH1JjcQ5uWGyU",
+          "pdf":""
+        },
+        {
+          "title":"Volume 4",
+          "cover":"https://images.yenpress.com/imgs/9781975367596.jpg?w=408&h=612&type=books&s=19e72c535c508340c7361b0b5858c5cf",
+          "epub":"1CLreWe969z_iUyHPxoEYLGAUtt4exgnU",
+          "pdf":""
+        },
+        {
+          "title":"Volume 4.5",
+          "cover":"https://images.yenpress.com/imgs/9781975367619.jpg?w=408&h=612&type=books&s=996ee70bb903bf5253d7df4ec9c54823",
+          "epub":"1NPSc7LQq0IEDNF40UVZ0t9jvqDc7isxI",
+          "pdf":""
+        }
+      ]
+    },
+    {
       "id":"014",
       "userPreffered":"Reincarnated as a Sword",
       "score":"74",
