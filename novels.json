@@ -28,6 +28,129 @@
       ]
     },
     {
+      "id":"012",
+      "userPreffered":"That Time I Got Reincarnated as a Slime",
+      "score":"84",
+      "title":{
+        "jp":"Tensei Shitara Slime Datta Ken",
+        "eng":"That Time I Got Reincarnated as a Slime"
+      },
+      "images":{
+        "cover":"https://static.wikia.nocookie.net/tensei-shitara-slime-datta-ken/images/0/09/Light_Novel_Volume_1_EN.jpg/revision/latest?cb=20181012112755",
+        "banner":""
+      },
+      "status":"Releasing",
+      "type":"Light Novel",
+      "translationType":"Official",
+      "translationGroup":"Yen Press",
+      "genres": ["Adventure","Comedy","Fantasy"],
+      "synopsis":"Living alone and never having had a girlfriend, 37-year-old Satoru Mikami is dissatisfied with how his life has turned out. But after dying at the hands of a robber, he awakens to a fresh start in a new world...as a slime monster.",
+      "volumes":[
+        {
+          "title":"Volume 1",
+          "cover":"https://static.wikia.nocookie.net/tensei-shitara-slime-datta-ken/images/0/09/Light_Novel_Volume_1_EN.jpg/revision/latest?cb=20181012112755",
+          "epub":"1Kp_xYSGv2qats3ZSy0drIq7s-lX8zVGn",
+          "pdf":""
+        },
+        {
+          "title":"Volume 2",
+          "cover":"https://static.wikia.nocookie.net/tensei-shitara-slime-datta-ken/images/a/aa/Light_Novel_Volume_2_EN.jpg/revision/latest?cb=20181012112756",
+          "epub":"1KlUU9ElrH8gBWpS-M5yOXmrIGvRNcEbh",
+          "pdf":""
+        },
+        {
+          "title":"Volume 3",
+          "cover":"https://static.wikia.nocookie.net/tensei-shitara-slime-datta-ken/images/8/83/Light_Novel_Volume_3_EN.jpg/revision/latest?cb=20181012112756",
+          "epub":"1KnBac3U9ykFRZNK3k-_PH3AoQU9FnsEu",
+          "pdf":""
+        },
+        {
+          "title":"Volume 4",
+          "cover":"https://static.wikia.nocookie.net/tensei-shitara-slime-datta-ken/images/1/14/Light_Novel_Volume_4_EN.jpg/revision/latest?cb=20190104123757",
+          "epub":"1KbMH6tAETkVJO5Cv8Rrt6daH9S8kuCJ_",
+          "pdf":""
+        },
+        {
+          "title":"Volume 5",
+          "cover":"https://static.wikia.nocookie.net/tensei-shitara-slime-datta-ken/images/2/22/Light_Novel_Volume_5_EN.jpg/revision/latest?cb=20190415230522",
+          "epub":"1KZDrd1IV8YQSBzg52Kfa5PNhrWqAk8rQ",
+          "pdf":""
+        },
+        {
+          "title":"Volume 6",
+          "cover":"https://static.wikia.nocookie.net/tensei-shitara-slime-datta-ken/images/9/9c/Light_Novel_Volume_6_EN.jpg/revision/latest?cb=20210612154211",
+          "epub":"1KwoQvAeBXCrbaTb9qlkqMZmo2pZFdnxC",
+          "pdf":""
+        },
+        {
+          "title":"Volume 7",
+          "cover":"https://static.wikia.nocookie.net/tensei-shitara-slime-datta-ken/images/0/06/Light_Novel_Volume_7_EN.jpg/revision/latest?cb=20191218062836",
+          "epub":"1KoIwMhF7FpvdH_1yMskyXQSM3764OU_9",
+          "pdf":""
+        },
+        {
+          "title":"Volume 8",
+          "cover":"https://static.wikia.nocookie.net/tensei-shitara-slime-datta-ken/images/7/7d/Light_Novel_Volume_8_EN.jpg/revision/latest?cb=20210612154539",
+          "epub":"1KwHodQomrJz3Q0ux5X5NbL8uuqikP93O",
+          "pdf":""
+        },
+        {
+          "title":"Volume 9",
+          "cover":"https://static.wikia.nocookie.net/tensei-shitara-slime-datta-ken/images/2/2f/Light_Novel_Volume_9_EN.jpg/revision/latest?cb=20210612155652",
+          "epub":"1KWVSk4b-zk5kiAZAR8V8PqxBkzEae8Wl",
+          "pdf":""
+        },
+        {
+          "title":"Volume 10",
+          "cover":"https://static.wikia.nocookie.net/tensei-shitara-slime-datta-ken/images/7/70/Light_Novel_Volume_10_EN.jpg/revision/latest?cb=20210612160400",
+          "epub":"1KmJQdz6wUidldiPlcdmA03cw3qJLNxLX",
+          "pdf":""
+        },
+        {
+          "title":"Volume 11",
+          "cover":"https://static.wikia.nocookie.net/tensei-shitara-slime-datta-ken/images/d/d5/Light_Novel_Volume_11_EN.jpg/revision/latest?cb=20220527095230",
+          "epub":"1Ka8CGx2E1tff15GblC4U5_9Sj7JzzE13",
+          "pdf":""
+        },
+        {
+          "title":"Volume 12",
+          "cover":"https://static.wikia.nocookie.net/tensei-shitara-slime-datta-ken/images/a/ae/Light_Novel_Volume_12_EN.jpg/revision/latest?cb=20210722190420",
+          "epub":"1Kz5eGtDDhkLgIVXpKbwpGNSOvi_oVKlM",
+          "pdf":""
+        },
+        {
+          "title":"Volume 13",
+          "cover":"https://static.wikia.nocookie.net/tensei-shitara-slime-datta-ken/images/6/6e/Light_Novel_Volume_13_EN.jpg/revision/latest?cb=20211206185057",
+          "epub":"1L4BVfpo9GHtEReBRi6dcbCi7GpC4dUvn",
+          "pdf":""
+        },
+        {
+          "title":"Volume 14",
+          "cover":"https://static.wikia.nocookie.net/tensei-shitara-slime-datta-ken/images/a/af/Light_Novel_Volume_14_EN.jpg/revision/latest?cb=20220726120426",
+          "epub":"1Kv7cG-mhHxTuTg14kqRTmbgfLCumqj7l",
+          "pdf":""
+        },
+        {
+          "title":"Volume 15",
+          "cover":"https://static.wikia.nocookie.net/tensei-shitara-slime-datta-ken/images/2/20/Light_Novel_Volume_15_EN.jpg/revision/latest?cb=20220814100350",
+          "epub":"1Kl29En_Sgg4bnj1XjWn_DQCmdSP2-S1O",
+          "pdf":""
+        },
+        {
+          "title":"Volume 16",
+          "cover":"https://static.wikia.nocookie.net/tensei-shitara-slime-datta-ken/images/3/33/Light_Novel_Volume_16_EN.jpg/revision/latest?cb=20230413115410",
+          "epub":"1KbY-h6Q7iPC_as1uTM4DA7kqDpH8n_jW",
+          "pdf":""
+        },
+        {
+          "title":"Volume 17",
+          "cover":"https://static.wikia.nocookie.net/tensei-shitara-slime-datta-ken/images/7/7b/Light_Novel_Volume_17_EN.jpg/revision/latest?cb=20230822045253",
+          "epub":"1MBzNkvGB6s_njhg5zXIvLAeAcLgeQ3cJ",
+          "pdf":""
+        }
+      ]
+    },
+    {
       "id":"011",
       "userPreffered":"The Eminence in Shadow",
       "score":"82",
