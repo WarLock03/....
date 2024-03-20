@@ -1,6 +1,165 @@
 {
   "novels":[
     {
+      "id":"013",
+      "userPreffered":"",
+      "score":"86",
+      "title":{
+        "jp":"Re:Zero kara Hajimeru Isekai Seikatsu",
+        "eng":"Re:ZERO -Starting Life in Another World-"
+      },
+      "images":{
+        "cover":"https://static.wikia.nocookie.net/rezero/images/e/eb/Re_Zero_Volume_1_Cover.png/revision/latest?cb=20211219142902",
+        "banner":"https://static.wikia.nocookie.net/rezero/images/c/c4/Re_Zero_Light_Novel_1_1.png/revision/latest?cb=20220620211539"
+      },
+      "status":"Releasing",
+      "type":"Light Novel",
+      "translationType":"Official",
+      "translationGroup":"Yen Press",
+      "genres": ["Action","Adventure","Drama","Fantasy","Psychological","Romance","Thriller"],
+      "synopsis":"Subaru Natsuki was just trying to get to the convenience store but wound up summoned to another world. He encounters the usual things--life-threatening situations, silver haired beauties, cat fairies--you know, normal stuff. All that would be bad enough, but he's also gained the most inconvenient magical ability of all--time travel, but he's got to die to use it. How do you repay someone who saved your life when all you can do is die?",
+      "volumes":[
+        {
+          "title":"Volume 1",
+          "cover":"https://static.wikia.nocookie.net/rezero/images/e/eb/Re_Zero_Volume_1_Cover.png/revision/latest?cb=20211219142902",
+          "epub":"1F-qnTwCTa2M1VeRbwacV-XfRrPNzpNd3",
+          "pdf":""
+        },
+        {
+          "title":"Volume 2",
+          "cover":"https://static.wikia.nocookie.net/rezero/images/c/ce/Re_Zero_Volume_2_Cover.png/revision/latest?cb=20220619152547",
+          "epub":"1F1eTKWg0CUXN85hGKJ0idNnREPhC6kzm",
+          "pdf":""
+        },
+        {
+          "title":"Volume 3",
+          "cover":"https://static.wikia.nocookie.net/rezero/images/d/d5/Re_Zero_Volume_3_Cover.png/revision/latest?cb=20220619161502",
+          "epub":"1FAgDMYNVEKO6OzBc-Y8zaMSsdJXpxGL4",
+          "pdf":""
+        },
+        {
+          "title":"Volume 4",
+          "cover":"https://static.wikia.nocookie.net/rezero/images/3/32/Re_Zero_Volume_4_Cover.png/revision/latest?cb=20220619161800",
+          "epub":"1FBJ5dL6ofYhlPMgz_J0cz2oc1goihG5I",
+          "pdf":""
+        },
+        {
+          "title":"Volume 5",
+          "cover":"https://static.wikia.nocookie.net/rezero/images/6/60/Re_Zero_Volume_5_Cover.png/revision/latest?cb=20211219141716",
+          "epub":"1FD4q0uqxQKhYZaB8nMer6l--v4jUo0d5",
+          "pdf":""
+        },
+        {
+          "title":"Volume 6",
+          "cover":"https://static.wikia.nocookie.net/rezero/images/e/ea/Re_Zero_Volume_6_Cover.png/revision/latest?cb=20211219141418",
+          "epub":"1FGkfeqy4RhoCbG5i21paPOKhlNf3Gqql",
+          "pdf":""
+        },
+        {
+          "title":"Volume 7",
+          "cover":"https://static.wikia.nocookie.net/rezero/images/7/7b/Re_Zero_Volume_7_Cover.png/revision/latest?cb=20211219141028",
+          "epub":"1FOZiU_rJhehTI0bMKWHecflhpG5rOVKv",
+          "pdf":""
+        },
+        {
+          "title":"Volume 8",
+          "cover":"https://static.wikia.nocookie.net/rezero/images/3/39/Re_Zero_Volume_8_Cover.png/revision/latest?cb=20211219140727",
+          "epub":"1FPriBJ4wwkRMLOhAhF8pb_i5oW63O5Pl",
+          "pdf":""
+        },
+        {
+          "title":"Volume 9",
+          "cover":"https://static.wikia.nocookie.net/rezero/images/6/68/Re_Zero_Volume_9_Cover.png/revision/latest?cb=20211219140436",
+          "epub":"1FTR_4LA3Q7IZAQ3FIIWo2YEF3noGu-Ll",
+          "pdf":""
+        },
+        {
+          "title":"Volume 10",
+          "cover":"https://static.wikia.nocookie.net/rezero/images/6/6e/Re_Zero_Volume_10_Cover.png/revision/latest?cb=20211219135910",
+          "epub":"1FXePTPld_FR0Dwr7d3Q5p5bQg0ZcO4fY",
+          "pdf":""
+        },
+        {
+          "title":"Volume 11",
+          "cover":"https://static.wikia.nocookie.net/rezero/images/f/fa/Re_Zero_Volume_11_Cover.png/revision/latest?cb=20211219135208",
+          "epub":"1FZ_iNvxCTPK3oawheK0hc99pRJ6Igqd6",
+          "pdf":""
+        },
+        {
+          "title":"Volume 12",
+          "cover":"https://static.wikia.nocookie.net/rezero/images/b/b4/Re_Zero_Volume_12_Cover.png/revision/latest?cb=20211219134459",
+          "epub":"1FZt3PMtRcg5plDFlSL2F7qHDDVU7Q4gW",
+          "pdf":""
+        },
+        {
+          "title":"Volume 13",
+          "cover":"https://static.wikia.nocookie.net/rezero/images/5/57/Re_Zero_Volume_13_Cover.png/revision/latest?cb=20211219133654",
+          "epub":"1Fa6khWLSL5HkD_UAuipgi-EFGfNVBTlf",
+          "pdf":""
+        },
+        {
+          "title":"Volume 14",
+          "cover":"https://static.wikia.nocookie.net/rezero/images/2/28/Re_Zero_Volume_14_Cover.png/revision/latest?cb=20211219132233",
+          "epub":"1GzbV6_BFX2SWnLCaOxgB03kfjW2V-fW1",
+          "pdf":""
+        },
+        {
+          "title":"Volume 15",
+          "cover":"https://static.wikia.nocookie.net/rezero/images/7/7b/Re_Zero_Volume_15_Cover.png/revision/latest?cb=20211219131558",
+          "epub":"1H0fFEbWd3KLlCmhC4Pb5QZDZlm0GSmMf",
+          "pdf":""
+        },
+        {
+          "title":"Volume 16",
+          "cover":"https://static.wikia.nocookie.net/rezero/images/3/39/Re_Zero_Volume_16_Cover.png/revision/latest?cb=20211219131213",
+          "epub":"1H6hi2vzOUiJxQBY3N8wSWy80BwEkwIVb",
+          "pdf":""
+        },
+        {
+          "title":"Volume 17",
+          "cover":"https://static.wikia.nocookie.net/rezero/images/3/39/Re_Zero_Volume_17_Cover.png/revision/latest?cb=20211219130831",
+          "epub":"1HG43pKlpdQU2OT0DhnIHk5K4OYXEBm0F",
+          "pdf":""
+        },
+        {
+          "title":"Volume 18",
+          "cover":"https://static.wikia.nocookie.net/rezero/images/3/3e/Re_Zero_Volume_18_Cover.png/revision/latest?cb=20211218190855",
+          "epub":"1HJsxeSu6AxFg6yiC5_Vk8hGHW_Qextbu",
+          "pdf":""
+        },
+        {
+          "title":"Volume 19",
+          "cover":"https://static.wikia.nocookie.net/rezero/images/0/09/Re_Zero_Volume_19_Cover.png/revision/latest?cb=20211219130245",
+          "epub":"1HK9cspR0VUI3X9JInCVDCX7SH-icpA5M",
+          "pdf":""
+        },
+        {
+          "title":"Volume 20",
+          "cover":"https://static.wikia.nocookie.net/rezero/images/6/6d/Re_Zero_Volume_20_Cover.png/revision/latest?cb=20211218190439",
+          "epub":"1HKCdFlYoaWIIeQKnn9mJKRQsgEbsrl2l",
+          "pdf":""
+        },
+        {
+          "title":"Volume 21",
+          "cover":"https://static.wikia.nocookie.net/rezero/images/8/86/Re_Zero_Volume_21_Cover.png/revision/latest?cb=20211219124110",
+          "epub":"1HLRVwDCs4WGhNNc3nlC82PHsPnJrPEmi",
+          "pdf":""
+        },
+        {
+          "title":"Volume 22",
+          "cover":"https://static.wikia.nocookie.net/rezero/images/3/3b/Re_Zero_Volume_22_Cover.png/revision/latest?cb=20211219122927",
+          "epub":"1HXanQFJI_GTMbafT6eUMaMCGdZ5I3WZ1",
+          "pdf":""
+        },
+        {
+          "title":"Volume 23",
+          "cover":"https://static.wikia.nocookie.net/rezero/images/9/99/Re_Zero_Volume_23_Cover.png/revision/latest?cb=20211218184623",
+          "epub":"1HYbnHRDjFARYWY40h-JlJX7wEErS2x7J",
+          "pdf":""
+        }
+      ]
+    },
+    {
       "id":"012",
       "userPreffered":"That Time I Got Reincarnated as a Slime",
       "score":"84",
