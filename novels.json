@@ -1,6 +1,84 @@
 {
   "novels":[
     {
+      "id":"017",
+      "userPreffered":"",
+      "score":"71",
+      "title":{
+        "jp":"Slime Taoshite 300-nen, Shiranai Uchi ni Level MAX ni Nattemashita",
+        "eng":"I've Been Killing Slimes for 300 Years and Maxed Out My Level"
+      },
+      "images":{
+        "cover":"https://static.wikia.nocookie.net/slime-taoshite-300-nen/images/9/94/Light_Novel_Volume_1_cover.jpg/revision/latest?cb=20191118131959",
+        "banner":"https://static.wikia.nocookie.net/slime-taoshite-300-nen/images/e/ec/Ln1_image2.jpg/revision/latest?cb=20210418043221"
+      },
+      "status":"Releasing",
+      "type":"Audiobook",
+      "translationType":"Official",
+      "translationGroup":"Yen Press",
+      "genres": ["Adventure","Fantasy","Slice of Life"],
+      "synopsis":"After living a painful life as an office worker, Azusa ended her short life by dying from overworking. So when she found herself reincarnated as an undying, unaging witch in a new world, she vows to spend her days stress free and as pleasantly as possible. She ekes out a living by hunting down the easiest targets - the slimes! But after centuries of doing this simple job, she's ended up with insane powers...how will she maintain her low key life now?!",
+      "volumes":[
+        {
+          "title":"Volume 1",
+          "cover":"https://static.wikia.nocookie.net/slime-taoshite-300-nen/images/9/94/Light_Novel_Volume_1_cover.jpg/revision/latest?cb=20191118131959",
+          "epub":"1NSuE6O21Wgz5TknwrRuyLinOWcsQCvgX",
+          "pdf":""
+        }
+      ]
+    },
+    {
+      "id":"016",
+      "userPreffered":"",
+      "score":"77",
+      "title":{
+        "jp":"Re:Zero kara Hajimeru Isekai Seikatsu Ex",
+        "eng":"Re:ZERO -Starting Life in Another World- Ex"
+      },
+      "images":{
+        "cover":"https://static.wikia.nocookie.net/rezero/images/3/31/Re_Zero_Ex_Volume_5_Cover.png/revision/latest?cb=20211217222320",
+        "banner":"https://static.wikia.nocookie.net/rezero/images/9/9b/Re_Zero_Ex_Volume_1_1.png/revision/latest?cb=20220620211331"
+      },
+      "status":"Releasing",
+      "type":"Light Novel",
+      "translationType":"Official",
+      "translationGroup":"Yen Press",
+      "genres": ["Action","Drama","Fantasy","Romance"],
+      "synopsis":"The bestselling series from author Tappei Nagatsuki continues in this spin-off where some of your favorite characters capture the spotlight!",
+      "volumes":[
+        {
+          "title":"Volume 1",
+          "cover":"https://static.wikia.nocookie.net/rezero/images/9/98/Re_Zero_Ex_Volume_1_Cover.png/revision/latest?cb=20211227152827",
+          "epub":"1I-cfvhzidoRmJxD58lMX07BQof9NHg9B",
+          "pdf":""
+        },
+        {
+          "title":"Volume 2",
+          "cover":"https://static.wikia.nocookie.net/rezero/images/5/5c/Re_Zero_Ex_Volume_2_Cover.png/revision/latest?cb=20211227153030",
+          "epub":"1I0BZK9djlETLSYbhgVBtnLO_L0obwx4O",
+          "pdf":""
+        },
+        {
+          "title":"Volume 3",
+          "cover":"https://static.wikia.nocookie.net/rezero/images/c/cf/Re_Zero_Ex_Volume_3_Cover.png/revision/latest?cb=20211227153157",
+          "epub":"1I2i9a4u0Tq9MMsfLjmzzJFyX4tAI5SFd",
+          "pdf":""
+        },
+        {
+          "title":"Volume 4",
+          "cover":"https://static.wikia.nocookie.net/rezero/images/7/74/Re_Zero_Ex_Volume_4_Cover.png/revision/latest?cb=20211227153246",
+          "epub":"1IEj-Z3vddEpr47y9g8e1B5E83ZldtX3S",
+          "pdf":""
+        },
+        {
+          "title":"Volume 5",
+          "cover":"https://static.wikia.nocookie.net/rezero/images/3/31/Re_Zero_Ex_Volume_5_Cover.png/revision/latest?cb=20211217222320",
+          "epub":"1IHeKQWyUMbJvBWxoD6I5ne_1qpQMRDC3",
+          "pdf":""
+        }
+      ]
+    },
+    {
       "id":"015",
       "userPreffered":"",
       "score":"77",
