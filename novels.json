@@ -1,33 +1,6 @@
 {
   "novels":[
     {
-      "id":"010",
-      "userPreffered":"",
-      "score":"",
-      "title":{
-        "jp":"",
-        "eng":""
-      },
-      "images":{
-        "cover":"",
-        "banner":""
-      },
-      "status":"",
-      "type":"",
-      "translationType":"Official",
-      "translationGroup":"",
-      "genres": [],
-      "synopsis":"",
-      "volumes":[
-        {
-          "title":"Volume 1",
-          "cover":"",
-          "epub":"",
-          "pdf":""
-        }
-      ]
-    },
-    {
       "id":"012",
       "userPreffered":"That Time I Got Reincarnated as a Slime",
       "score":"84",
