@@ -1,6 +1,111 @@
 {
   "novels":[
     {
+      "id":"014",
+      "userPreffered":"Reincarnated as a Sword",
+      "score":"74",
+      "title":{
+        "jp":"Tensei Shitara Ken Deshita",
+        "eng":"Reincarnated as a Sword"
+      },
+      "images":{
+        "cover":"https://static.wikia.nocookie.net/i-was-a-sword-when-i-reincarnated/images/4/4d/LN_Vol_14_EN.jpg/revision/latest?cb=20230916092848",
+        "banner":""
+      },
+      "status":"Releasing",
+      "type":"Light Novel",
+      "translationType":"Official",
+      "translationGroup":"Seven Seas Entertainment",
+      "genres": ["Action","Adventure","Fantasy"],
+      "synopsis":"When a 30-year-old salaryman and games enthusiast is suddenly killed in a car accident, he finds himself reborn into a fantasy world…but in the form of a sword! Now he’s in search of a beautiful woman to wield him, and a cat girl named Fran might be the exact adventuring partner he needs.",
+      "volumes":[
+        {
+          "title":"Volume 1",
+          "cover":"https://static.wikia.nocookie.net/i-was-a-sword-when-i-reincarnated/images/c/cc/LN_Vol_1_ENG.png/revision/latest?cb=20210408194842",
+          "epub":"17B_Ry1BL8XzdtDLc9ykBAgFjPQqyjXRL",
+          "pdf":""
+        },
+        {
+          "title":"Volume 2",
+          "cover":"https://static.wikia.nocookie.net/i-was-a-sword-when-i-reincarnated/images/1/15/LN_Vol_2_ENG.png/revision/latest?cb=20210408195139",
+          "epub":"17EPkFdh7OHfWu2SnPwGmL-K-gnJqDf8w",
+          "pdf":""
+        },
+        {
+          "title":"Volume 3",
+          "cover":"https://static.wikia.nocookie.net/i-was-a-sword-when-i-reincarnated/images/2/28/LN_Vol_3_ENG.png/revision/latest?cb=20210408195439",
+          "epub":"17QDilbRHX2B-4R9huRTufMXAHNlyxl-T",
+          "pdf":""
+        },
+        {
+          "title":"Volume 4",
+          "cover":"https://static.wikia.nocookie.net/i-was-a-sword-when-i-reincarnated/images/8/8a/LN_Vol_4_ENG.png/revision/latest?cb=20210408195615",
+          "epub":"17UUy00EBK_1ib3SV-t3mTsfk0qzTEDtT",
+          "pdf":""
+        },
+        {
+          "title":"Volume 5",
+          "cover":"https://static.wikia.nocookie.net/i-was-a-sword-when-i-reincarnated/images/c/c5/LN_Vol_5_ENG.png/revision/latest?cb=20210408201132",
+          "epub":"17V91tbVlveEc3rLi4ZKi7j0SARjdwIrq",
+          "pdf":""
+        },
+        {
+          "title":"Volume 6",
+          "cover":"https://static.wikia.nocookie.net/i-was-a-sword-when-i-reincarnated/images/9/95/LN_Vol_6_ENG.png/revision/latest?cb=20210408203725",
+          "epub":"17_1hV-KGONq_4x6JKBXOQ2c0FeHkpvPD",
+          "pdf":""
+        },
+        {
+          "title":"Volume 7",
+          "cover":"https://static.wikia.nocookie.net/i-was-a-sword-when-i-reincarnated/images/7/79/LN_Vol_7_ENG.png/revision/latest?cb=20201126202345",
+          "epub":"17_r5YIyUR3O1e0eAj23qSvY5yN9aViNA",
+          "pdf":""
+        },
+        {
+          "title":"Volume 8",
+          "cover":"https://static.wikia.nocookie.net/i-was-a-sword-when-i-reincarnated/images/c/c4/LN_Vol_8_ENG.png/revision/latest?cb=20210408150229",
+          "epub":"17gcmF0CxnNhlq-Ka7OXlZlm1hFZmFKl2",
+          "pdf":""
+        },
+        {
+          "title":"Volume 9",
+          "cover":"https://static.wikia.nocookie.net/i-was-a-sword-when-i-reincarnated/images/8/81/LN_Vol_9_ENG.png/revision/latest?cb=20210926024522",
+          "epub":"17pIg8PnUOS4RZn788fuwInaNSB3GLH6F",
+          "pdf":""
+        },
+        {
+          "title":"Volume 10",
+          "cover":"https://static.wikia.nocookie.net/i-was-a-sword-when-i-reincarnated/images/0/07/LN_Vol_10_ENG.png/revision/latest?cb=20220212002124",
+          "epub":"17q96WO1mLSAxx8gMeup6owZw6UoiI898",
+          "pdf":""
+        },
+        {
+          "title":"Volume 11",
+          "cover":"https://static.wikia.nocookie.net/i-was-a-sword-when-i-reincarnated/images/c/c1/LN_Vol_11_ENG.png/revision/latest?cb=20220806162020",
+          "epub":"17v7NlzQB0MdsomHMUDxT4erTmKrdtlHK",
+          "pdf":""
+        },
+        {
+          "title":"Volume 12",
+          "cover":"https://static.wikia.nocookie.net/i-was-a-sword-when-i-reincarnated/images/3/32/LN_Vol_12_EN.jpg/revision/latest?cb=20230330230024",
+          "epub":"181A1f6yndZle1HL0HmWPzwcqeHBtr3Kp",
+          "pdf":""
+        },
+        {
+          "title":"Volume 13",
+          "cover":"https://static.wikia.nocookie.net/i-was-a-sword-when-i-reincarnated/images/9/95/LN_Vol_13_EN.jpg/revision/latest?cb=20230430132929",
+          "epub":"182cLOViyddJYQmWtOLL-0G0boTvKP-VC",
+          "pdf":""
+        },
+        {
+          "title":"Volume 14",
+          "cover":"https://static.wikia.nocookie.net/i-was-a-sword-when-i-reincarnated/images/4/4d/LN_Vol_14_EN.jpg/revision/latest?cb=20230916092848",
+          "epub":"1N15QIL5OIffgqTkRimBPbJd6xsPWf_dm",
+          "pdf":""
+        }
+      ]
+    },
+    {
       "id":"013",
       "userPreffered":"",
       "score":"86",
