@@ -1,6 +1,93 @@
 {
   "novels":[
   {
+      "id":"019",
+      "userPreffered":"Death March to the Parallel World Rhapsody",
+      "score":"71",
+      "title":{
+        "jp":"Kimi to Boku no Saigo no Senjo, Aruiha Sekai ga Hajimaru Seisen",
+        "eng":"Our Last Crusade or the Rise of a New World"
+      },
+      "images":{
+        "cover":"https://static.wikia.nocookie.net/kimisen/images/9/94/Volume1JP.jpg/revision/latest?cb=20201103230224",
+        "banner":"https://static.wikia.nocookie.net/kimisen/images/0/02/Volume_1_Illustration_3.jpg/revision/latest?cb=20201104014648"
+      },
+      "status":"Releasing",
+      "type":"Light Novel",
+      "translationType":"Official",
+      "translationGroup":"Yen Press",
+      "genres": ["Action","Fantasy","Romance"],
+      "synopsis":"Love is a battlefield.<br><br>For years, a great war has raged on between the scientifically advanced Empire and a paradise of witches known as the Nebulis Sovereignty. This age-old battle sets the scene for a fateful encounter between two young combatants: an imperial swordsman, Iska, and the witch princess, Aliceliese. As sworn enemies, they vow to cut each other down in order to unite their worlds, and yet Iska finds himself entranced by her beauty and righteousness, while Aliceliese is moved by his strength and resolve. In the midst of a never-ending war that forbids them from being together, they have no choice but to destroy each other—or can they find another way?",
+      "volumes":[
+        {
+          "title":"Volume 1",
+          "cover":"https://static.wikia.nocookie.net/kimisen/images/9/94/Volume1JP.jpg/revision/latest?cb=20201103230224",
+          "epub":"1NMiaRZWZuv_5nTY2I4D50nuE3p4l6GJ5",
+          "pdf":""
+        },
+        {
+          "title":"Volume 2",
+          "cover":"https://static.wikia.nocookie.net/kimisen/images/1/15/2.jpg/revision/latest?cb=20201104015552",
+          "epub":"1NEJ-x_L4ThYJxvYpf408zePif91p7hqk",
+          "pdf":""
+        },
+        {
+          "title":"Volume 3",
+          "cover":"https://static.wikia.nocookie.net/kimisen/images/7/79/3.jpg/revision/latest?cb=20201106063711",
+          "epub":"1LrlKNi68bakfCHbc7YyagtpvnptDjuHK",
+          "pdf":""
+        },
+        {
+          "title":"Volume 4",
+          "cover":"https://static.wikia.nocookie.net/kimisen/images/d/d0/4.jpg/revision/latest?cb=20201106065035",
+          "epub":"1NHdlF44Z5kKnmNdDa1fjvCjR2rUZpHiK",
+          "pdf":""
+        },
+        {
+          "title":"Volume 5",
+          "cover":"https://static.wikia.nocookie.net/kimisen/images/0/03/5.jpg/revision/latest?cb=20201106070055",
+          "epub":"1NObxow1DZq09_QUORwfQXRFrCQZ7-lfi",
+          "pdf":""
+        },
+        {
+          "title":"Volume 6",
+          "cover":"https://static.wikia.nocookie.net/kimisen/images/1/18/6.jpg/revision/latest?cb=20201106070353",
+          "epub":"1LqAdomn_Whzg-k5w6Uncxbva1aj5eou-",
+          "pdf":""
+        },
+        {
+          "title":"Volume 7",
+          "cover":"https://static.wikia.nocookie.net/kimisen/images/f/fe/7.jpg/revision/latest?cb=20201106071041",
+          "epub":"1NAbSdOVFwc0L5N4PLCmE5Y9xaDh52KEG",
+          "pdf":""
+        },
+        {
+          "title":"Volume 8",
+          "cover":"https://static.wikia.nocookie.net/kimisen/images/3/33/Volume_8_Cover.jpg/revision/latest?cb=20201106071438",
+          "epub":"1MzH8y8Xeptz-KgkqwgkMV0Hk7YJzqGn3",
+          "pdf":""
+        },
+        {
+          "title":"Volume 9",
+          "cover":"https://static.wikia.nocookie.net/kimisen/images/3/30/9.jpg/revision/latest?cb=20201106071913",
+          "epub":"1LydzxbpjeDjmD5bp9LZ9tUDxbfEQXv9f",
+          "pdf":""
+        },
+        {
+          "title":"Volume 10",
+          "cover":"https://static.wikia.nocookie.net/kimisen/images/1/1d/Volume10.1.jpg/revision/latest?cb=20201017035547",
+          "epub":"1LwTUc5LD8tqeXAWoiGnDpISJMbLJiRft",
+          "pdf":""
+        },
+        {
+          "title":"Volume 11",
+          "cover":"https://static.wikia.nocookie.net/kimisen/images/6/61/Vol_11.jpg/revision/latest?cb=20211001172449",
+          "epub":"1N-djXQ7JkcxKGiZwu2lB5GWx2y7kyJ7w",
+          "pdf":""
+        }
+      ]
+    },
+  {
       "id":"018",
       "userPreffered":"Death March to the Parallel World Rhapsody",
       "score":"71",
