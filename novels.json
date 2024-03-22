@@ -1,5 +1,32 @@
 {
   "novels":[
+  {
+      "id":"017",
+      "userPreffered":"",
+      "score":"",
+      "title":{
+        "jp":"",
+        "eng":""
+      },
+      "images":{
+        "cover":"",
+        "banner":""
+      },
+      "status":"Releasing",
+      "type":"",
+      "translationType":"Official",
+      "translationGroup":"",
+      "genres": [],
+      "synopsis":"",
+      "volumes":[
+        {
+          "title":"Volume 1",
+          "cover":"",
+          "epub":"",
+          "pdf":""
+        }
+      ]
+    },
     {
       "id":"017",
       "userPreffered":"I've Been Killing Slimes for 300 Years and Maxed Out My Level",
