@@ -1,6 +1,39 @@
 {
   "novels":[
   {
+      "id":"020",
+      "userPreffered":"I May Be a Guild Receptionist, But I’ll Solo Any Boss to Clock Out on Time",
+      "score":"71",
+      "title":{
+        "jp":"Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Tobatsu Shiyou to Omoimasu",
+        "eng":"I May Be a Guild Receptionist, But I’ll Solo Any Boss to Clock Out on Time"
+      },
+      "images":{
+        "cover":"http://nextnovels.com/wp-content/uploads/2024/01/Guild-no-Uketsukejou-desu-ga-Zangyou-wa-Iya-na-no-de-Boss-wo-Solo-Toubatsu-Shiyou-to-Omoimasu-Portada-671x1024.jpg",
+        "banner":""
+      },
+      "status":"Releasing",
+      "type":"Light Novel",
+      "translationType":"Official",
+      "translationGroup":"Yen Press",
+      "genres": ["Action","Adventure","Comedy","Fantasy"],
+      "synopsis":"Alina signed up to be a receptionist for the Adventurers Guild but her dream gig is an overtime nightmare! To save herself from paperwork, she secretly beats down monsters herself.",
+      "volumes":[
+        {
+          "title":"Volume 1",
+          "cover":"http://nextnovels.com/wp-content/uploads/2024/01/Guild-no-Uketsukejou-desu-ga-Zangyou-wa-Iya-na-no-de-Boss-wo-Solo-Toubatsu-Shiyou-to-Omoimasu-Portada-671x1024.jpg",
+          "epub":"1PAZcJM45VgFQM6QRd426XWZfiK4NN2u0",
+          "pdf":"1oZ0-xH1TBTINaLsbGo90MW7CLF3Uw5zu"
+        },
+        {
+          "title":"Volume 1",
+          "cover":"https://images.yenpress.com/imgs/9781975369484.jpg?w=408&h=612&type=books&s=227991d6c772ab817cd50e46b69be15d",
+          "epub":"1Oe0erWq9-cHT_e9PRj_Xq3LGrWWCrL_c",
+          "pdf":""
+        }
+      ]
+    },
+  {
       "id":"019",
       "userPreffered":"Death March to the Parallel World Rhapsody",
       "score":"71",
