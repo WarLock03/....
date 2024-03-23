@@ -1,6 +1,33 @@
 {
   "novels":[
   {
+      "id":"0",
+      "userPreffered":"Unknown",
+      "score":"0",
+      "title":{
+        "jp":"Unknown",
+        "eng":"Unknown"
+      },
+      "images":{
+        "cover":"Unknown",
+        "banner":""
+      },
+      "status":"Releasing",
+      "type":"Light Novel",
+      "translationType":"Official",
+      "translationGroup":"Unknown",
+      "genres": [],
+      "synopsis":"Unknown",
+      "volumes":[
+        {
+          "title":"Volume 1",
+          "cover":"",
+          "epub":"",
+          "pdf":""
+        }
+      ]
+    },
+  {
       "id":"020",
       "userPreffered":"I May Be a Guild Receptionist, But I’ll Solo Any Boss to Clock Out on Time",
       "score":"71",
