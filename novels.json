@@ -1,6 +1,87 @@
 {
   "novels":[
   {
+      "id":"022",
+      "userPreffered":"Reign of the Seven Spellblades",
+      "score":"76",
+      "title":{
+        "jp":"Nanatsu no Maken ga Shihai Suru",
+        "eng":"Reign of the Seven Spellblades"
+      },
+      "images":{
+        "cover":"https://images.yenpress.com/imgs/9781975369569.jpg?w=408&h=612&type=books&s=04fafa3185f07809f3d8e97330192f13",
+        "banner":""
+      },
+      "status":"Releasing",
+      "type":"Light Novel",
+      "translationType":"Official",
+      "translationGroup":"Yen Press",
+      "genres": ["Action","Fantasy"],
+      "synopsis":"Springtime at Kimberly Magic Academy, when new students begin their first year. One boy, clad in black robes with a white cane and sword strapped to his hip, approaches the prestigious school. This young man--Oliver--must form a bond with a katana-wielding girl named Nanao if he's to survive the dangers he's to face at this school that is anything but what it seems!",
+      "volumes":[
+        {
+          "title":"Volume 1",
+          "cover":"https://images.yenpress.com/imgs/9781975317195.jpg?w=408&h=612&type=books&s=c1c4ba4230abd65c750c17f5dfd0899f",
+          "epub":"192dfuo7LCMDZ4_AmSHMKjvmzhOZ_4Mxe",
+          "pdf":""
+        },
+        {
+          "title":"Volume 2",
+          "cover":"https://images.yenpress.com/imgs/9781975317201.jpg?w=408&h=612&type=books&s=9cfdad498c83943d3adc182ba7f9c26f",
+          "epub":"18qihQfaWUBs17nGEJ4kbxDwJlu44CVtc",
+          "pdf":""
+        },
+        {
+          "title":"Volume 3",
+          "cover":"https://images.yenpress.com/imgs/9781975317225.jpg?w=408&h=612&type=books&s=394e0c062e801080605b460f896216c9",
+          "epub":"18vbUbrcY1FhZp0DurAeGxPRhQyYKeOSd",
+          "pdf":""
+        },
+        {
+          "title":"Volume 4",
+          "cover":"https://images.yenpress.com/imgs/9781975317249.jpg?w=408&h=612&type=books&s=c978d1708f2ba89de11a785630abac12",
+          "epub":"1903AAM-bYJIHP_HxizThcA3rvoa-sT8S",
+          "pdf":""
+        },
+        {
+          "title":"Volume 5",
+          "cover":"https://images.yenpress.com/imgs/9781975339692.jpg?w=408&h=612&type=books&s=8adc43cab039b5737c59f4d90037ad3d",
+          "epub":"193THyLcwbXHq7Pk6N5abXnlieyQgyaBn",
+          "pdf":""
+        },
+        {
+          "title":"Volume 6",
+          "cover":"https://images.yenpress.com/imgs/9781975339715.jpg?w=408&h=612&type=books&s=5b426899f7dd7384e86db6a215401f34",
+          "epub":"197Hj3HVJ-ZTcQ7KPYR9KH1-kZFuj_f94",
+          "pdf":""
+        },
+        {
+          "title":"Volume 7",
+          "cover":"https://images.yenpress.com/imgs/9781975343446.jpg?w=408&h=612&type=books&s=4f02c03531e440240cc913e638b078c2",
+          "epub":"199ZsUVj6owLt5Adaqqj8fSLBUZqcepIG",
+          "pdf":""
+        },
+        {
+          "title":"Volume 8",
+          "cover":"https://images.yenpress.com/imgs/9781975352240.jpg?w=408&h=612&type=books&s=98f0150785da9cde69a0d6c6e1ecac92",
+          "epub":"199g1mL6m96yV9ku33HGOWlAfdI3Q4KoX",
+          "pdf":""
+        },
+        {
+          "title":"Volume 9",
+          "cover":"https://images.yenpress.com/imgs/9781975369545.jpg?w=408&h=612&type=books&s=c45b724c9c1322077acc89f5a6f3a683",
+          "epub":"19BdChGt23BOOMKv8zSrgEM1X9fvSBz53",
+          "pdf":""
+        },
+        {
+          "title":"Volume 10",
+          "cover":"https://images.yenpress.com/imgs/9781975369545.jpg?w=408&h=612&type=books&s=c45b724c9c1322077acc89f5a6f3a683",
+          "epub":"19BIJEEYIIVO4YWIoAqLauWrDOmtKQKDm",
+          "pdf":""
+        }
+      ]
+    },
+  {
       "id":"021",
       "userPreffered":"King's Proposal",
       "score":"77",
