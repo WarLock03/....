@@ -1,6 +1,93 @@
 {
   "novels":[
   {
+      "id":"023",
+      "userPreffered":"The Beginning After the End",
+      "score":"76",
+      "title":{
+        "jp":"",
+        "eng":"The Beginning After the End"
+      },
+      "images":{
+        "cover":"https://static.wikia.nocookie.net/thebate/images/0/00/Volume1.jpg/revision/latest?cb=20210212044247",
+        "banner":""
+      },
+      "status":"Releasing",
+      "type":"Web Novel",
+      "translationType":"Official",
+      "translationGroup":"Tapas",
+      "genres": ["Action","Fantasy"],
+      "synopsis":"King Grey has unrivaled strength, wealth, and prestige in a world governed by martial ability. However, solitude lingers closely behind those with great power. Beneath the glamorous exterior of a powerful king lurks the shell of a man, devoid of purpose and will.<br>Reincarnated into a new world filled with magic and monsters, the king has a second chance to relive his life. Correcting the mistakes of his past will not be his only challenge, however. Underneath the peace and prosperity of the new world is an undercurrent threatening to destroy everything he has worked for, questioning his role and reason for being born again.<br><br><i>Noted: Links provided from JNovels</i>",
+      "volumes":[
+        {
+          "title":"Volume 1",
+          "cover":"https://static.wikia.nocookie.net/thebate/images/0/00/Volume1.jpg/revision/latest?cb=20210212044247",
+          "epub":"https://docs.google.com/uc?export=download&id=1JtObeMwDzbU7VWUxPQr3YLBGJkFyphrk",
+          "pdf":""
+        },
+        {
+          "title":"Volume 2",
+          "cover":"https://static.wikia.nocookie.net/thebate/images/9/91/Volume2.jpg/revision/latest?cb=20200101085652",
+          "epub":"",
+          "pdf":""
+        },
+        {
+          "title":"Volume 3",
+          "cover":"https://static.wikia.nocookie.net/thebate/images/c/cb/Volume3.png/revision/latest?cb=20200101085734",
+          "epub":"",
+          "pdf":""
+        },
+        {
+          "title":"Volume 4",
+          "cover":"https://static.wikia.nocookie.net/thebate/images/e/e4/Volume4.jpg/revision/latest?cb=20200101085857",
+          "epub":"",
+          "pdf":""
+        },
+        {
+          "title":"Volume 5",
+          "cover":"https://static.wikia.nocookie.net/thebate/images/a/ae/Volume5.png/revision/latest?cb=20200101085957",
+          "epub":"",
+          "pdf":""
+        },
+        {
+          "title":"Volume 6",
+          "cover":"https://static.wikia.nocookie.net/thebate/images/3/3b/Volume6.jpg/revision/latest?cb=20200101090043",
+          "epub":"",
+          "pdf":""
+        },
+        {
+          "title":"Volume 7",
+          "cover":"https://static.wikia.nocookie.net/thebate/images/9/91/Volume7.jpg/revision/latest?cb=20200212042250",
+          "epub":"",
+          "pdf":""
+        },
+        {
+          "title":"Volume 8",
+          "cover":"https://static.wikia.nocookie.net/thebate/images/8/82/Volume_8.png/revision/latest?cb=20210315235647",
+          "epub":"",
+          "pdf":""
+        },
+        {
+          "title":"Volume 8.5",
+          "cover":"https://static.wikia.nocookie.net/thebate/images/2/2d/Tapas-Volume8.5.jpg/revision/latest?cb=20220420142109",
+          "epub":"",
+          "pdf":""
+        },
+        {
+          "title":"Volume 9",
+          "cover":"https://static.wikia.nocookie.net/thebate/images/5/5c/Volume_9_cover.png/revision/latest?cb=20220421154552",
+          "epub":"",
+          "pdf":""
+        },
+        {
+          "title":"Volume 10",
+          "cover":"https://static.wikia.nocookie.net/thebate/images/9/9d/Volume10.png/revision/latest?cb=20230717060306",
+          "epub":"",
+          "pdf":""
+        }
+      ]
+    },
+  {
       "id":"022",
       "userPreffered":"Reign of the Seven Spellblades",
       "score":"76",
