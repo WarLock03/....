@@ -492,11 +492,96 @@
       "translationGroup":"Yen Press",
       "genres": ["Adventure","Fantasy","Slice of Life"],
       "synopsis":"After living a painful life as an office worker, Azusa ended her short life by dying from overworking. So when she found herself reincarnated as an undying, unaging witch in a new world, she vows to spend her days stress free and as pleasantly as possible. She ekes out a living by hunting down the easiest targets - the slimes! But after centuries of doing this simple job, she's ended up with insane powers...how will she maintain her low key life now?!",
+      "audiobook":[
+        {
+          "title":"Volume 1",
+          "cover":"https://static.wikia.nocookie.net/slime-taoshite-300-nen/images/9/94/Light_Novel_Volume_1_cover.jpg/revision/latest?cb=20191118131959",
+          "link":"1NSuE6O21Wgz5TknwrRuyLinOWcsQCvgX"
+        }
+      ],
       "volumes":[
         {
           "title":"Volume 1",
           "cover":"https://static.wikia.nocookie.net/slime-taoshite-300-nen/images/9/94/Light_Novel_Volume_1_cover.jpg/revision/latest?cb=20191118131959",
-          "epub":"1NSuE6O21Wgz5TknwrRuyLinOWcsQCvgX",
+          "epub":"1Lv6pKaNL8Kvfe3kg2MC9AJ5Rbe3JfjFb",
+          "pdf":""
+        },
+        {
+          "title":"Volume 2",
+          "cover":"https://static.wikia.nocookie.net/slime-taoshite-300-nen/images/1/18/Light_Novel_Volume_2_cover.jpg/revision/latest?cb=20180307164207",
+          "epub":"1LyEPV0b7iSYMzXSjG59MBrGMpHJ1gy-O",
+          "pdf":""
+        },
+        {
+          "title":"Volume 3",
+          "cover":"https://static.wikia.nocookie.net/slime-taoshite-300-nen/images/3/3e/Light_Novel_Volume_3_cover.jpg/revision/latest?cb=20180307164215",
+          "epub":"1Lya_YXXdengVZyxks-2Lx0nqPzlqDn6D",
+          "pdf":""
+        },
+        {
+          "title":"Volume 4",
+          "cover":"https://static.wikia.nocookie.net/slime-taoshite-300-nen/images/d/d3/Light_Novel_Volume_4_cover.jpg/revision/latest?cb=20180307164235",
+          "epub":"1LzX72rb3BJXuEpkZ-StgBL4wGZNVqZn0",
+          "pdf":""
+        },
+        {
+          "title":"Volume 5",
+          "cover":"https://static.wikia.nocookie.net/slime-taoshite-300-nen/images/5/54/Light_Novel_Volume_5_Limited_Edition_cover.jpg/revision/latest?cb=20180307164251",
+          "epub":"1M3Xw-Wvo3JnHOBh2-5_TqKSTy1GiVm6u",
+          "pdf":""
+        },
+        {
+          "title":"Volume 6",
+          "cover":"https://static.wikia.nocookie.net/slime-taoshite-300-nen/images/3/32/Book_6.jpg/revision/latest?cb=20191118091752",
+          "epub":"1MMzb0_sMMF3o99FPX7yfNu9oAvIWjHOn",
+          "pdf":""
+        },
+        {
+          "title":"Volume 7",
+          "cover":"https://static.wikia.nocookie.net/slime-taoshite-300-nen/images/f/f7/Book_7.jpg/revision/latest?cb=20191118091752",
+          "epub":"15nmvL52G0IEyHvdjX1w54ypYZ3RtLK90",
+          "pdf":""
+        },
+        {
+          "title":"Volume 8",
+          "cover":"https://static.wikia.nocookie.net/slime-taoshite-300-nen/images/6/61/Book_8.jpg/revision/latest?cb=20191118091753",
+          "epub":"1phpiD9SD2qOUTjl_8PrSz6UIHlvOqw0r",
+          "pdf":""
+        },
+        {
+          "title":"Volume 9",
+          "cover":"https://static.wikia.nocookie.net/slime-taoshite-300-nen/images/5/5f/Drama_CD_9.jpg/revision/latest?cb=20191118183130",
+          "epub":"1yFpuKzkTZB1AgHLCjGZW6nvU9k0Yqd9f",
+          "pdf":""
+        },
+        {
+          "title":"Volume 10",
+          "cover":"https://static.wikia.nocookie.net/slime-taoshite-300-nen/images/3/31/Book_10.jpg/revision/latest?cb=20191118091754",
+          "epub":"1ZUcDFrm0VIx6TYfmrgt7B5trxISVHw5U",
+          "pdf":""
+        },
+        {
+          "title":"Volume 11",
+          "cover":"https://static.wikia.nocookie.net/slime-taoshite-300-nen/images/d/d9/LN11_jp_cover.jpg/revision/latest?cb=20210511095118",
+          "epub":"1I6sYPr3jD90EOQBmLoMnP--Pg66sbVHO",
+          "pdf":""
+        },
+        {
+          "title":"Volume 12",
+          "cover":"https://static.wikia.nocookie.net/slime-taoshite-300-nen/images/e/e6/LN12_jp_cover.jpg/revision/latest?cb=20210511095924",
+          "epub":"1r-NwHX9cst-KrvOGXsoUBcePn2c8diRN",
+          "pdf":""
+        },
+        {
+          "title":"Volume 13",
+          "cover":"https://static.wikia.nocookie.net/slime-taoshite-300-nen/images/1/15/LN13_jp_cover.jpg/revision/latest?cb=20210511101212",
+          "epub":"1cZ1kXF3HUCy9dtU5iJxSbuzF0dtpPcKQ",
+          "pdf":""
+        },
+        {
+          "title":"Volume 14",
+          "cover":"https://static.wikia.nocookie.net/slime-taoshite-300-nen/images/c/ca/LN14_jp_cover.jpg/revision/latest?cb=20210511102003",
+          "epub":"1ooPGTWf5Osik5R1CtPnfkUgSvtBhb-Wt",
           "pdf":""
         }
       ]
