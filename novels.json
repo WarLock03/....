@@ -1,5 +1,80 @@
 {
   "novels":[
+    {
+      "id":"024",
+      "userPreffered":"If It’s for My Daughter, I’d Even Defeat a Demon Lord",
+      "score":"75",
+      "title":{
+        "jp":"Uchi no Ko no Tame Naraba, Ore wa Moshikashitara Maou mo Taoseru Kamo Shirenai.",
+        "eng":"If It’s for My Daughter, I’d Even Defeat a Demon Lord"
+      },
+      "images":{
+        "cover":"https://images-na.ssl-images-amazon.com/images/I/91X8pszlmmL.jpg",
+        "banner":""
+      },
+      "status":"Finished",
+      "type":"Light Novel",
+      "translationType":"Official",
+      "translationGroup":"J-Novel Club",
+      "genres": ["Fantasy","Slice of Life"],
+      "synopsis":"Dale is a cool, composed, and highly skilled adventurer who’s made quite a name for himself despite his youth. One day on a job deep in the forest, he comes across a little devil girl who’s almost wasted away. Unable to just leave her there to die, Dale takes her home and becomes her adoptive father. Devil or not, Latina is beyond adorable, and the adventurer soon finds himself head over heels with being a parent. But why was she out in the forest to begin with, and why does she carry the mark of a criminal?<br><br><i>Noted: This LN is premium version provided by <a href='https://www.justlightnovels.com/2020/01/if-its-for-my-daughter-id-even-defeat/'>Just Light Novels</a></i>",
+      "volumes":[
+        {
+          "title":"Volume 1",
+          "cover":"https://images-na.ssl-images-amazon.com/images/I/91X8pszlmmL.jpg",
+          "epub":"1N4_hii71S6s8bDAPM_xOO6CEH4iG_Wdq",
+          "pdf":"1O5nvIR2JBkBpcWlwdr1eBP2X1vlv2SPC"
+        },
+        {
+          "title":"Volume 2",
+          "cover":"https://images-na.ssl-images-amazon.com/images/I/91lC9NG6lQL.jpg",
+          "epub":"1N6-bRJ_PEuE06w6qv5lb-OEo11UOMIPt",
+          "pdf":"1OChTMZZpvg4C4aQxzBE809VqVDIRQy6L"
+        },
+        {
+          "title":"Volume 3",
+          "cover":"https://m.media-amazon.com/images/I/61jycMgGN4L.jpg",
+          "epub":"1N7FYKtOMuqIqFJQgjY2DvF4VsMs9FCWY",
+          "pdf":"1OHowvU9CEMs9XhlaiFegQkTKbm67yiDq"
+        },
+        {
+          "title":"Volume 4",
+          "cover":"https://images-na.ssl-images-amazon.com/images/I/91jAZECOdpL.jpg",
+          "epub":"1NBs0sXSRO6BK1FuSWAUl0D_erideDWtX",
+          "pdf":"1OStdg6PVXPCortaxSXLapjjaeoO3n_mN"
+        },
+        {
+          "title":"Volume 5",
+          "cover":"https://images-na.ssl-images-amazon.com/images/I/91TTwhlJvKL.jpg",
+          "epub":"1NDmf5uDxD896aNDTStaTvrVId8Io-CMX",
+          "pdf":"1OTYP2zpsICJc-WvvS-C3yV286AVk_jN4"
+        },
+        {
+          "title":"Volume 6",
+          "cover":"https://m.media-amazon.com/images/I/51weTwK+mbL.jpg",
+          "epub":"1NFmniVJqFrS64KkmWybC4sp8-7MVCeNj",
+          "pdf":"1Oatjj_L3nrBiZPRzDqLAMMXQu_AdIODn"
+        },
+        {
+          "title":"Volume 7",
+          "cover":"https://images-na.ssl-images-amazon.com/images/I/81kyI++4FgL.jpg",
+          "epub":"1NGnpXU8ol_4ILd2XpIu-WGJKCS-StTD6",
+          "pdf":"1OoDzccApGNl8miQ5pjnv06F6iUEUNO-K"
+        },
+        {
+          "title":"Volume 8",
+          "cover":"https://images-na.ssl-images-amazon.com/images/I/812uShBqyzL.jpg",
+          "epub":"1O2E0PAMCU1bmE9XEaLU3a3f3DZwk3XUB",
+          "pdf":"1Oq8nkMNqn00qVTIMzCjMa-jCwy2VViyi"
+        },
+        {
+          "title":"Volume 9",
+          "cover":"https://images-na.ssl-images-amazon.com/images/I/71p8qQfJMgL.jpg",
+          "epub":"1O38VxyWBMr3M03ho3tiuYA9vXGObm8im",
+          "pdf":"1Ou5bbAMK-OfOl4MwVBoRs66zSurOhiow"
+        }
+      ]
+    },
   {
       "id":"023",
       "userPreffered":"The Beginning After the End",
