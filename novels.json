@@ -1,33 +1,6 @@
 {
   "novels":[
     {
-      "id":"023",
-      "userPreffered":"",
-      "score":"0",
-      "title":{
-        "jp":"",
-        "eng":""
-      },
-      "images":{
-        "cover":"",
-        "banner":""
-      },
-      "status":"Releasing",
-      "type":"",
-      "translationType":"Official",
-      "translationGroup":"Tapas",
-      "genres": [],
-      "synopsis":"",
-      "volumes":[
-        {
-          "title":"Volume 1",
-          "cover":"",
-          "epub":"",
-          "pdf":""
-        },
-      ]
-    },
-    {
       "id":"025",
       "userPreffered":"The Executioner and Her Way of Life",
       "score":"75",
@@ -49,43 +22,43 @@
         {
           "title":"Volume 1",
           "cover":"https://static.wikia.nocookie.net/virgin-road6140/images/8/88/LN_V1_Cover.jpg/revision/latest?cb=20210418012919",
-          "epub":"",
-          "pdf":""
+          "epub":"https://mega.nz/file/kMcTSL7Z#T3rZpGuAj_ybRIRfG0Wi-zoEfzDhepW3JGpLGIUSp88",
+          "pdf":"https://mega.nz/file/ZBsCUC6b#Ay3J2HbilsjsCtDN3F8Nu3afRzbzDZAxF-HshpC3LjY"
         },
         {
           "title":"Volume 2",
           "cover":"https://static.wikia.nocookie.net/virgin-road6140/images/3/3b/LN_VL_2_cover.jpg/revision/latest?cb=20210608124918",
-          "epub":"",
-          "pdf":""
+          "epub":"https://mega.nz/file/BdlWVaDB#bWJh14BY6drEg1En_rX6Xpwzxbthx70pK4Rs4m5YRbE",
+          "pdf":"https://mega.nz/file/8NFSDJCR#nPkIPPy6HlCh-TKoDmQumCr9i-3YH1aWitnAPNurx78"
         },
         {
           "title":"Volume 3",
           "cover":"https://images.yenpress.com/imgs/9781975335809.jpg?w=285&h=422&type=books&s=4457c95fd306d43e3ccb7eb5cffabc50",
-          "epub":"",
-          "pdf":""
+          "epub":"https://mega.nz/file/FV1jQKoB#OHQsrW_krQPQe1FvKilBr8w8rbRwLEoNXfezR72_tss",
+          "pdf":"https://mega.nz/file/RBs0GRIa#SfkVSLYgfegURjl-OOpJT02Mj1K_sCA1bw8c9ExbE9w"
         },
         {
-          "title":"Volume 1",
-          "cover":"",
-          "epub":"",
-          "pdf":""
+          "title":"Volume 4",
+          "cover":"https://images.yenpress.com/imgs/9781975336455.jpg?w=285&h=422&type=books&s=36c130b39a24438f44410e462e9b7ccc",
+          "epub":"https://mega.nz/file/xJd1BL7B#go7jppBci0TXPkX_VtvJFQnb_l1SwskOmqclZ1p_Kjg",
+          "pdf":"https://mega.nz/file/QVNRDAQQ#FEiIrX379mZTrN1Yngo2KKD0WFXdfHfwjcOZWhcOJXs"
         },
         {
-          "title":"Volume 1",
-          "cover":"",
-          "epub":"",
-          "pdf":""
+          "title":"Volume 5",
+          "cover":"https://i0.wp.com/jnovels.com/wp-content/uploads/2022/10/The-Executioner-and-Her-Way-of-Life-v05-The-Promised-Land.jpg?fit=700,1050&ssl=1",
+          "epub":"https://mega.nz/file/dF0UiaYS#VEIni6-B1Yw2-xnv-iz9Xfk6VO5kE9LFb_HS5RynKd8",
+          "pdf":"https://mega.nz/file/dMFi1DbZ#FK8Ami4VP-bJRrWQQ_ilVBxL2jms1F96m_wIbJNewxs"
         },
         {
-          "title":"Volume 1",
-          "cover":"",
-          "epub":"",
-          "pdf":""
+          "title":"Volume 6",
+          "cover":"https://images.yenpress.com/imgs/9781975350062.jpg?w=408&h=612&type=books&s=e6e0000b38c0b9fff7818ea99c3a5056",
+          "epub":"https://mega.nz/file/QJdwmSaR#5vBJAIG2hCdm4TsGaMAJWtwWsgUZFcWLYejpUb-_8Fk",
+          "pdf":"https://mega.nz/file/dc8znbBA#s0ZBy5VKOVUYhQWLjRIvkjH55AqLao_YWlvwBQinPDw"
         },
         {
-          "title":"Volume 1",
-          "cover":"",
-          "epub":"",
+          "title":"Volume 7",
+          "cover":"https://images.yenpress.com/imgs/9781975380632.jpg?w=285&h=422&type=books&s=21ce08f9719352c0eafe37401dbf1350",
+          "epub":"https://mega.nz/file/1EMEEZAD#5mUBT0qSeD48NGoj0pOPfOcqMrBSn2oTxB6-gms8Zfs",
           "pdf":""
         }
       ]
